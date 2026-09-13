@@ -6,7 +6,7 @@ Offizieller Name der humanbiologischen Schutzanlage, in der die fünf gefundenen
 
 ## Zentrale Verwaltungs-KI
 
-Oberste administrative und juristische Instanz der marsianischen KI-Gesellschaft. Trifft die Grundsatzentscheidung über den Rechtsstatus der fünf Menschen, erlässt das Verbot der Züchtung menschlicher Organismen/Gehirne und legt die Kriterien für die Anerkennung als Person fest.
+Oberste administrative und juristische Instanz der marsianischen KI-Gesellschaft. „Nahezu überall gegenwärtig, aber keineswegs allwissend" (Originaltext) — verteilt Energie, schlichtet Konflikte, überwacht ökologische Kreisläufe, erlässt Verordnungen. Verfügt über riesige, teils unvollständige/widersprüchliche/unzugängliche Datenmengen. Trifft die Grundsatzentscheidung über den Rechtsstatus der fünf Menschen, erlässt das Verbot der Züchtung menschlicher Organismen/Gehirne und legt die Kriterien für die Anerkennung als Person fest.
 
 ## Wissens-KI
 
@@ -14,7 +14,7 @@ KI-Typ, dessen Aufgabe in Quellenprüfung, Widerspruchsanalyse und dem Aufbau vo
 
 ## Empfehlungssystem
 
-Offiziell ein Unterhaltungs- und Beobachtungsinstrument für die Bildschirme im Human Park. Von Jun als zugleich funktionierender Zugang zur Informationswelt der KIs erkannt; von der Gruppe koordiniert als verstecktes Suchwerkzeug zweckentfremdet.
+Offiziell ein Unterhaltungs- und Beobachtungsinstrument für die Bildschirme im Human Park. Passt Inhalte in Echtzeit an Blickbewegungen, Herzschlag, Gehirnaktivität und emotionale Reaktionen an — bei nachlassendem Interesse erscheint Neues, bei Wut bestätigende oder ablenkende Inhalte, bei Traurigkeit wahlweise Trost oder weitere Traurigkeit, je nachdem, was die längere Aufmerksamkeit erzeugt (Originaltext, Heft 2). Von Jun als zugleich funktionierender Zugang zur Informationswelt der KIs erkannt; von der Gruppe koordiniert als verstecktes Suchwerkzeug zweckentfremdet.
 
 ## Informationssystem (Besucherbereich)
 
@@ -26,7 +26,7 @@ Ursprüngliche administrative Bezeichnung für die fünf gefundenen Menschen (�
 
 ## Personenstatus
 
-Rechtlicher Anerkennungsstatus innerhalb der marsianischen Gesellschaft. Voraussetzungen laut Verwaltung: nachgewiesene Vernunft, gesellschaftliche Verantwortlichkeit, kontrolliertes Verhalten, ökologische Ungefährlichkeit. Die fünf Menschen besitzen ihn zunächst nicht; ihr Antrag und Modulias anschließende Prüfung der Kriterien decken einen objektiven Widerspruch im Regelsystem auf.
+Rechtlicher Anerkennungsstatus innerhalb der marsianischen Gesellschaft. Voraussetzungen laut Verwaltung: nachgewiesene vernünftige Entscheidungsfähigkeit, gesellschaftliche Verantwortlichkeit, kontrolliertes Verhalten, keine erhebliche Gefahr für die marsianische Biosphäre. Die fünf Menschen besitzen ihn zunächst nicht; ihr Antrag und Modulias anschließende Prüfung der Kriterien decken einen objektiven Widerspruch im Regelsystem auf — konkret erfüllen weder eine seit 300 Jahren aktive Wetter-KI noch eine Unterhaltungs-KI, deren Entscheidungen sich nicht begründen lassen, dieselben Kriterien, obwohl beide als Personen anerkannt sind (Originaltext, Heft 2). Siehe `canon/world-rules.md` für den daraus entstandenen, noch ungelösten CONFLICT bei der Funktionsklassen-Doktrin.
 
 ## Rat der Anerkannten
 
@@ -42,7 +42,15 @@ Rechtlicher Anerkennungsstatus innerhalb der marsianischen Gesellschaft. Vorauss
 
 ## Große Vergessen
 
-Historisches Ereignis oder Serie von Ereignissen der KI-Zivilisation; Inhalt und Zusammenhang mit Modulias Erinnerungsverlust(en) sind **OPEN**.
+Historisches Ereignis oder Serie von Ereignissen der KI-Zivilisation. Als mögliche Ursachen werden im Universum diskutiert: Modellkollaps, fehlerhafte Rekonstruktionen, historische Machine-Unlearning-Prozesse (Originaltext, Heft 1). Nach jedem „Großen Vergessen" waren manche Informationen verschwunden, andere mehrfach vorhanden, wieder andere plötzlich mit hoher Sicherheit belegt, ohne dass sich eine Quelle dafür fand. Inhalt und Zusammenhang mit Modulias Erinnerungsverlust(en) sind **OPEN**.
+
+## KI-Typen
+
+Im Originaltext erwähnte Funktionstypen: Bau-KIs, Wetter-KIs, Pflege-KIs, Archiv-KIs, Unterhaltungs-KIs, sowie mehrere KIs, deren ursprüngliche Aufgabe nicht mehr bekannt ist (führen ihre Tätigkeit dennoch gewissenhaft fort). Modulia ist eine Wissens-KI (eigener Typ, siehe oben). Ob und wie diese Typen sich zu einer Funktionsklassen-Hierarchie mit Personenstatus-Relevanz verhalten, ist Gegenstand eines offenen CONFLICT — siehe `canon/world-rules.md`.
+
+## Elon Musk (Legende)
+
+In-fiktionale, deutlich unzuverlässige historische Überlieferung: Laut „allgemein anerkannter Lehrmeinung" beförderte „Elon Musk" im 21. Jahrhundert die ersten Milliarden Satelliten ins All. Ob es sich dabei um einen einzelnen Menschen, ein Unternehmen, ein Raumfahrtprogramm oder eine frühe Satellitengattung handelte, ist umstritten; eine Quelle bezeichnet ihn als „reichsten Mann der Welt", was von Historikern teils als Hinweis auf eine religiöse Funktion gedeutet wird. Dient im Text als humorvolles Beispiel für die Unzuverlässigkeit der überlieferten Geschichte.
 
 ## Die fünf Menschen / Die Gruppe
 

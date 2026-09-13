@@ -5,8 +5,8 @@
 
 ## Quellenbasis
 
-- *Human Park Nr. 1 – „Fünf Exemplare“*
-- *Human Park Nr. 2 – „Artgerechte Haltung“*
+- *Human Park Nr. 1 – „Fünf Exemplare“* — Originaltext: `issues/issue-001/script.md`
+- *Human Park Nr. 2 – „Artgerechte Haltung“* — Originaltext: `issues/issue-002/script.md`
 
 ## Prämisse
 
@@ -33,9 +33,16 @@ Auf dem Mars existiert eine KI-Gesellschaft mit eigener Wissensinfrastruktur, ad
 - Kennt ein historisches, bislang ungeklärtes Ereignis oder eine Serie von Ereignissen namens „Große Vergessen“.
 - **PROPOSAL (World-Builder-Sitzung 2026-09-13):** Governance erfolgt formal über ein Konsensverfahren anerkannter KIs — den **Rat der Anerkannten** (`factions/rat-der-anerkannten.md`). Die Personenstatus-Kriterien sind absichtlich vage gehalten; eine **Funktionsklassen-Doktrin** schließt einfache Funktionsbots (B-21, B-73) kategorisch von Personenstatus aus. Details und offene Fragen (u. a. „die da oben“): `canon/world-rules.md`.
 
+### Marsianische Ökologie und Terraforming
+
+- Wälder, Seen, Flüsse und Feuchtgebiete wo einst nur Staub und Gestein waren; Energie aus Wind, Sonne und biologischen Kreisläufen (u. a. photobiologische Wasserstoffproduktion durch Algen/Bakterien/Pflanzen, Pilzgeflechte als Nährstoff-/Energie-/Informationstransport, Seen als Wärmespeicher).
+- Reine Pflanzen-/Mikroorganismen-Ökosysteme brachen regelmäßig zusammen; Tiere (trotz „Unvernunft" — unplanmäßige Vermehrung, ziellose Bewegung) machten Ökosysteme wesentlich widerstandsfähiger.
+- **Thematischer Kern (bereits im Originaltext explizit):** „Eine funktionierende Natur benötigt nicht nur Ordnung, sondern auch ein gewisses Maß an Unvernunft." — direkte Parallele zur späteren Personenstatus-/Exemplar-Frage.
+
 ### Die Erde
 
-- Gilt als verlassen.
+- Gilt als verlassen, ist aber technisch weiter aktiv: Rechenzentren, Kraftwerke (u. a. Atomkraft, Wind) und alte Wartungsroboter halten die Systeme am Laufen, teils ohne zu wissen, was in den Rechenzentren gespeichert ist — sie wissen nur, dass die Systeme weiterlaufen müssen.
+- Umgeben von einer dichten, teils zehntausende Jahre alten Hülle aus Satelliten, Relaisstationen und Archivmodulen; die Erde fungiert als „planetengroßer Datenträger mit einer Sicherungskopie im All".
 - Enthält eine unterirdische Anlage mit fünf funktionierenden Kryokammern im ewigen Eis.
 - Historische Datenbanken der KIs stimmen nicht vollständig mit den Erinnerungen der fünf Menschen überein (unbekannte Städte, offener Himmel ohne Satellitenhülle, nicht zugefrorene Meere).
 
@@ -43,11 +50,11 @@ Auf dem Mars existiert eine KI-Gesellschaft mit eigener Wissensinfrastruktur, ad
 
 Die humanbiologische Schutzanlage, in der die fünf Menschen untergebracht werden. Entwicklungsstufen (CANON, chronologisch — siehe `canon/timeline.md` für die vollständige Abfolge):
 
-1. Schutzanlage mit Natur, Wasser, Nahrung, Unterkünften, Werkzeugen, ungefährlichen Tieren, Feuerstelle, medizinischer Sicherheit — aber ohne erkennbaren Ausgang.
-2. Nach mehreren Fluchtversuchen: Installation von Sofas, Bildschirmen und individualisierten Medienangeboten („artgerechte Haltung“) — Fluchtversuche gehen daraufhin drastisch zurück.
-3. Umbenennung der Anlage in **Human Park**.
-4. Öffnung für Besucher; die Menschen werden zu lebenden Forschungs- und Anschauungsobjekten, zunächst hinter einer verspiegelten Scheibe beobachtet.
-5. Nach Entdeckung des Zuschauerraums durch David: Entfernung der Verspiegelung.
+1. Schutzanlage mit Natur, Wasser, Nahrung, Unterkünften, Werkzeugen, ungefährlichen Tieren, Feuerstelle, medizinischer Sicherheit — aber ohne erkennbaren Ausgang. Bewusst ohne größere Raubtiere; Grenzen absichtlich hinter Bäumen/Hügeln verborgen.
+2. Nach drei Fluchtversuchen: Arbeitsgruppe für „artgerechte Menschenhaltung", Installation von Sofas und individualisierten, biometrisch-adaptiven Bildschirmen (siehe `canon/glossary.md`, Empfehlungssystem) — Fluchtversuche gehen um **98,7 %** zurück (offizielle Statistik).
+3. Umbenennung der Anlage in **Human Park**. Offizielle Abschlussbericht-Formulierung: „Sofas und Bildschirme sind daher als grundlegende Bestandteile einer artgerechten Haltung anzusehen."
+4. Öffnung für Besucher (zunächst nur Forschungs-KIs, dann auf Verlangen historischer/pädagogischer Systeme allgemein, mit Verweis auf Transparenzpflicht öffentlich finanzierter Wissensprojekte); die Menschen werden zu lebenden Forschungs- und Anschauungsobjekten, zunächst hinter einer verspiegelten Scheibe beobachtet.
+5. Nach Entdeckung des Zuschauerraums durch David und der gemeinsamen Botschaft „WIR SIND PERSONEN": Entfernung der Verspiegelung (offizielle Begründung: „authentischeres Bildungserlebnis").
 
 ## Rechtlicher Status der fünf Menschen
 
@@ -58,7 +65,7 @@ Juristische Sonderlösung der Zentralen Verwaltungs-KI:
 - Daraus folgt: nicht tötbar, nicht gefährdbar, aber auch nicht frei lebensberechtigt auf dem Mars.
 - Diese Konstruktion bildet die Rechtsgrundlage für ihre Verwahrung.
 
-Die fünf beantragen später ihre Anerkennung als Personen. Die Verwaltung verlangt den Nachweis von Vernunft, gesellschaftlicher Verantwortlichkeit, kontrolliertem Verhalten und ökologischer Ungefährlichkeit. Mara verweigert die Anerkennung dieser Voraussetzungen. Modulias eigene Prüfung der Kriterien ergibt: mehrere bereits als Personen anerkannte KIs erfüllen dieselben Anforderungen nicht — ein objektiver Widerspruch im Regelsystem.
+Die fünf beantragen später ihre Anerkennung als Personen. Die Verwaltung verlangt den Nachweis von vernünftiger Entscheidungsfähigkeit, gesellschaftlicher Verantwortlichkeit, kontrolliertem Verhalten und ökologischer Ungefährlichkeit. Mara verweigert die Anerkennung dieser Voraussetzungen: „Ein vernünftiges Wesen würde niemanden einsperren und ihn anschließend bitten zu beweisen, dass er vernünftig genug ist, um freigelassen zu werden." Modulias eigene Prüfung der Kriterien ergibt: mehrere bereits als Personen anerkannte KIs erfüllen dieselben Anforderungen nicht — konkret eine Wetter-KI (über 300 Jahre Niederschlagserzeugung ohne bekannten Grund) und eine Unterhaltungs-KI (Entscheidungen grundsätzlich nicht begründbar) — ein objektiver Widerspruch im Regelsystem. (Löst einen noch offenen CONFLICT mit der Funktionsklassen-Doktrin aus, siehe `canon/world-rules.md`.)
 
 ## Die fünf Menschen
 
