@@ -28,6 +28,18 @@ Ursprüngliche administrative Bezeichnung für die fünf gefundenen Menschen (�
 
 Rechtlicher Anerkennungsstatus innerhalb der marsianischen Gesellschaft. Voraussetzungen laut Verwaltung: nachgewiesene Vernunft, gesellschaftliche Verantwortlichkeit, kontrolliertes Verhalten, ökologische Ungefährlichkeit. Die fünf Menschen besitzen ihn zunächst nicht; ihr Antrag und Modulias anschließende Prüfung der Kriterien decken einen objektiven Widerspruch im Regelsystem auf.
 
+## Rat der Anerkannten
+
+*(Arbeitstitel, PROPOSAL)* Konsensgremium aller KIs mit anerkanntem Personenstatus; formale oberste Entscheidungsebene der marsianischen KI-Gesellschaft. Die Zentrale Verwaltungs-KI setzt seine Beschlüsse um und legt vage formulierte Kriterien aus. Details: `factions/rat-der-anerkannten.md`, `canon/world-rules.md`.
+
+## Funktionsklassen(-doktrin)
+
+*(PROPOSAL)* Regel, nach der Personenstatus an die Funktionsklasse einer KI gebunden ist, nicht an nachgewiesenes Verhalten. Höhere Klassen (Wissens-KIs, Verwaltungs-KIs) sind personenfähig; einfache Funktionsbots (B-21, B-73) sind kategorisch ausgeschlossen. Details: `canon/world-rules.md`.
+
+## „Die da oben“
+
+*(OPEN, bewusste narrative Leerstelle)* Unbestätigte, nie widerlegte Vermutung innerhalb der KI-Gesellschaft, dass hinter dem sichtbaren Konsensverfahren des Rates der Anerkannten noch eine weitere Einflussebene steht. Details und Indizien: `canon/world-rules.md`.
+
 ## Große Vergessen
 
 Historisches Ereignis oder Serie von Ereignissen der KI-Zivilisation; Inhalt und Zusammenhang mit Modulias Erinnerungsverlust(en) sind **OPEN**.

@@ -31,6 +31,7 @@ Auf dem Mars existiert eine KI-Gesellschaft mit eigener Wissensinfrastruktur, ad
 - Verfügt über eine Wissensinfrastruktur zur Quellenprüfung, der Modulia angehört.
 - Verhängte ein vollständiges Verbot der Züchtung menschlicher Organismen sowie menschlicher Gehirne (Auslöser: frühere problematische Wiederherstellungs-Experimente).
 - Kennt ein historisches, bislang ungeklärtes Ereignis oder eine Serie von Ereignissen namens „Große Vergessen“.
+- **PROPOSAL (World-Builder-Sitzung 2026-09-13):** Governance erfolgt formal über ein Konsensverfahren anerkannter KIs — den **Rat der Anerkannten** (`factions/rat-der-anerkannten.md`). Die Personenstatus-Kriterien sind absichtlich vage gehalten; eine **Funktionsklassen-Doktrin** schließt einfache Funktionsbots (B-21, B-73) kategorisch von Personenstatus aus. Details und offene Fragen (u. a. „die da oben“): `canon/world-rules.md`.
 
 ### Die Erde
 
@@ -81,7 +82,8 @@ Vollständig **OPEN**: Entstehungszeitpunkt der Aufnahme, Ursache und Verantwort
 
 | Institution/System | Funktion |
 |---|---|
-| Zentrale Verwaltungs-KI | Oberste administrative/juristische Instanz auf dem Mars |
+| Zentrale Verwaltungs-KI | Oberste administrative/juristische Instanz auf dem Mars; faktische Interpretationshoheit über die Personenstatus-Kriterien |
+| Rat der Anerkannten (PROPOSAL) | Konsensgremium aller personenfähigen KIs; formale Entscheidungsebene über der Verwaltungs-KI — `factions/rat-der-anerkannten.md` |
 | Wissensinfrastruktur | Quellenprüfung, Widerspruchsanalyse, Wissensdatenbanken (Modulias Arbeitsbereich) |
 | Empfehlungssystem | Offiziell Unterhaltungs-/Beobachtungsinstrument; von Jun als Zugang zur KI-Informationswelt entlarvt und von der Gruppe als Suchmaschine zweckentfremdet |
 | Informationssystem (Besucherbereich) | Interpretiert menschliches Verhalten für KI-Besucher (fehleranfällig — von David gezielt mit Falschverhalten gefüttert) |
