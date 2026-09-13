@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#246a82" stroke-width="1.6"/></marker></defs>
+<rect width="1200" height="1000" fill="#faf8f2"/>
+<g font-family="Arial, sans-serif" fill="#20363c">
+<text x="60" y="58" font-size="30" font-weight="bold">Modulias Arbeitsplatz — räumliche Arbeitsfassung</text>
+<text x="60" y="91" font-size="17">Draufsicht · PROPOSAL / EXPLORATION · nicht maßstäblich</text>
+<!-- Room outline with doorway cut on upper left -->
+<path d="M160 255 V155 H745 V835 H160 V350" fill="none" stroke="#20363c" stroke-width="9"/>
+<path d="M160 835 H745" stroke="#b88b61" stroke-width="9" stroke-dasharray="13 9"/>
+<rect x="202" y="175" width="475" height="63" rx="3" fill="#416774" stroke="#20363c" stroke-width="2"/>
+<g stroke="#a9c1c5" stroke-width="2"><path d="M270 175 V238 M338 175 V238 M406 175 V238 M474 175 V238 M542 175 V238 M610 175 V238"/></g>
+<text x="439" y="214" text-anchor="middle" font-size="21" fill="white">Regal- und Archivwand</text>
+<!-- Entrance and threshold -->
+<path d="M98 255 H160 M98 350 H160" stroke="#20363c" stroke-width="3"/>
+<path d="M160 255 V350" stroke="#b88b61" stroke-width="2" stroke-dasharray="5 5"/>
+<text x="34" y="287" font-size="18" font-weight="bold">Eingang</text>
+<text x="34" y="312" font-size="14">Lage schematisch</text>
+<!-- Window on right -->
+<path d="M745 390 V650" stroke="#54b5c8" stroke-width="12"/>
+<path d="M758 390 V650" stroke="#54b5c8" stroke-width="3"/>
+<text x="776" y="472" font-size="19" font-weight="bold">Marsfenster</text>
+<text x="776" y="497" font-size="15">gegenüber der Konsole</text>
+<rect x="684" y="403" width="42" height="236" fill="#c9d6d5" stroke="#416774" stroke-width="2"/>
+<text x="705" y="527" text-anchor="middle" font-size="13" transform="rotate(-90 705 527)">niedrige Schränke</text>
+<!-- Console: single smooth curve on working edge, no second lobe -->
+<path d="M185 390 H350 C310 470 265 545 335 760 H185 Z" fill="#e8d7b9" stroke="#416774" stroke-width="3"/>
+<path d="M350 390 C310 470 265 545 335 760" fill="none" stroke="#cf8833" stroke-width="7"/>
+<text x="229" y="621" text-anchor="middle" font-size="19" transform="rotate(-90 229 621)">Arbeitskonsole</text>
+<!-- Screens with functional face indicator -->
+<rect x="239" y="423" width="18" height="65" rx="3" fill="#315c6e"/>
+<rect x="227" y="507" width="18" height="65" rx="3" fill="#315c6e"/>
+<path d="M263 435 V477 M251 519 V561" stroke="#54b5c8" stroke-width="5"/>
+<text x="195" y="373" font-size="15">2 Monitore → Arbeitsseite</text>
+<rect x="218" y="701" width="75" height="34" rx="3" fill="#edc44c" stroke="#9c7620" stroke-width="2"/>
+<rect x="227" y="709" width="23" height="16" fill="#88999c"/><rect x="260" y="709" width="23" height="16" fill="#88999c"/>
+<!-- Working position -->
+<circle cx="394" cy="529" r="23" fill="#b8e4e9" stroke="#246a82" stroke-width="2"/>
+<path d="M390 529 H351" stroke="#246a82" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="429" y="530" font-size="17">Modulias Arbeitsposition</text>
+<text x="456" y="635" font-size="18" text-anchor="middle">freie Bewegungsfläche</text>
+<!-- Camera B and view cone -->
+<path d="M496 373 L404 679 M496 373 L632 679" stroke="#246a82" stroke-width="2" stroke-dasharray="7 6" fill="none" opacity=".55"/>
+<rect x="477" y="350" width="38" height="29" rx="5" fill="#246a82"/>
+<text x="496" y="371" text-anchor="middle" fill="white" font-size="18" font-weight="bold">B</text>
+<path d="M496 388 V453" stroke="#246a82" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="531" y="349" font-size="17" font-weight="bold">Gegenansicht</text>
+<text x="531" y="371" font-size="14">von der Regalseite</text>
+<!-- Camera A -->
+<rect x="493" y="778" width="38" height="29" rx="5" fill="#246a82"/>
+<text x="512" y="799" text-anchor="middle" fill="white" font-size="18" font-weight="bold">A</text>
+<path d="M512 769 V701" stroke="#246a82" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="546" y="788" font-size="17" font-weight="bold">Original mit Modulia</text>
+<text x="546" y="810" font-size="14">Blick zur Archivwand</text>
+<!-- Notes -->
+<text x="823" y="585" font-size="18" font-weight="bold">Für die neue Ansicht B</text>
+<text x="823" y="620" font-size="16">• Eingang hinter der Kamera</text>
+<text x="823" y="650" font-size="16">• Archivwand hinter der Kamera</text>
+<text x="823" y="680" font-size="16">• Fenster links im Bild</text>
+<text x="823" y="710" font-size="16">• Konsole rechts im Bild</text>
+<text x="823" y="740" font-size="16">• Eine geschwungene Arbeitskante</text>
+<path d="M770 748 L343 674" stroke="#cf8833" stroke-width="1.5" fill="none"/>
+<text x="160" y="868" font-size="15" fill="#986735">Gestrichelte Abschlusswand: im Original unsichtbar; Form und Abstand offen.</text>
+<text x="60" y="926" font-size="17">Die Skizze fixiert Beziehungen und Blickrichtungen, keine exakten Maße oder Möbelkonturen.</text>
+<text x="60" y="956" font-size="17">Die zwei misslungenen Gegenansichten wurden nicht als Quelle verwendet.</text>
+</g></svg>

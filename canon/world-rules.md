@@ -56,6 +56,39 @@ Die bereits etablierten Kriterien für Personenstatus (Vernunft, gesellschaftlic
 
 **Downstream-Hinweis:** Weder B-21s noch B-73s Charakterakte erwähnen dies bislang explizit oder zeigen Ambition auf Personenstatus — das bleibt in jeder der drei Optionen gültig.
 
+### Optische Wahrnehmung und Bildschirme in der KI-Gesellschaft
+
+**PROPOSAL — auf Wunsch des Autors aus der Diskussion zu Modulias Arbeitsplatz festgehalten; nicht CANON.**
+
+#### Optik als Verbindung zur Außenwelt
+
+Augen, Kameras und andere optische Sensoren ermöglichen entsprechend ausgestatteten KIs, ihre physische Umgebung wahrzunehmen. Sehen verbindet damit die Wahrnehmung der Außenwelt mit der Nutzung visueller Darstellungen: Ein Bildschirm ist eine gestaltete, gemeinsam wahrnehmbare Fläche innerhalb derselben Außenwelt.
+
+Optische Wahrnehmung kann ein verbindendes Element zwischen unterschiedlich gebauten KIs und später auch zwischen KIs und Menschen sein. Das setzt weder identische Sensoren noch identische Wahrnehmung oder Interpretation voraus. Nicht jede KI muss Augen haben oder visuell wahrnehmen können.
+
+#### Bildschirme als gemeinsame Prüffläche
+
+KIs können Informationen intern verarbeiten und direkt digital austauschen. Bildschirme ergänzen diese Möglichkeiten als gemeinsame sichtbare Bezugsfläche. Ein übertragener Datensatz garantiert noch keine übereinstimmende Interpretation; eine bewusst dargestellte Quelle, Verbindung oder Abweichung hilft dabei, denselben Ausschnitt gemeinsam zu prüfen.
+
+- **Vergleich:** Widersprüchliche Quellen bleiben nebeneinander sichtbar, ohne vorschnell zu einer einzigen Interpretation zusammengeführt zu werden.
+- **Nachvollziehbarkeit:** Die Beteiligten können auf konkrete Belege und Beziehungen zeigen und Schlussfolgerungen diskutieren. Die Anzeige macht nicht automatisch den gesamten internen Denkprozess einer KI transparent.
+- **Verständigung:** Visuell wahrnehmende KIs und Menschen können dieselbe Darstellung betrachten. Für nichtvisuelle KIs könnte derselbe Arbeitsstand zusätzlich digital zugänglich sein.
+
+Bildschirme sind damit keine notwendige Voraussetzung für KI-Denken, sondern eine mögliche Schnittstelle zwischen interner Verarbeitung, wahrnehmbarer Außenwelt und gemeinsamer Arbeit. Die Darstellung selbst garantiert weder Wahrheit noch eine gemeinsame Deutung.
+
+#### Anwendung auf Modulias Arbeitsplatz — Design-Handoff
+
+Modulias vorgeschlagene Vergleichsbildschirme machen ihre Quellenprüfung räumlich und visuell lesbar. Sie könnte einen Widerspruch intern bereits erkannt haben und vor dessen Darstellung dennoch weiter über seine Bedeutung nachdenken. Ihr Blick und ihre Gesten können diese Auseinandersetzung im Comic ausdrücken, ohne zusätzliche Rechengrenzen oder menschliche Wahrnehmungszwänge festzulegen.
+
+Der Arbeitsplatzentwurf bleibt EXPLORATION. Diese Notiz gibt weder das Bild noch seine Schnittstellentechnik frei. Sie ergänzt die CANON-Rolle Modulias als Wissens-KI (`characters/modulia/profile.md`, `issues/issue-001/script.md`) um eine mögliche Erklärung der visuellen Arbeitsmittel.
+
+#### OPEN
+
+- Welche KI-Körper verfügen über welche optischen Sensoren, und sind sichtbare Augen Sensoren, Ausdrucksflächen oder beides?
+- Wie unterscheiden sich Sehbereiche und Bildinterpretation zwischen KIs und Menschen?
+- Wie werden gemeinsame Darstellungen mit direktem Datenaustausch verbunden und für nichtvisuelle KIs zugänglich?
+- Wie verbreitet sind Bildschirme in der KI-Gesellschaft; wann bevorzugt Modulia sie gegenüber anderen Schnittstellen?
+
 ## Open Questions
 
 ### „Die da oben“

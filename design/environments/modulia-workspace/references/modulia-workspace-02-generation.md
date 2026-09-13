@@ -1,0 +1,20 @@
+# Gegenansicht — Generierungsnachweis
+
+- Werkzeug: eingebautes image_gen
+- Ausgangsbild: modulia-workspace-01.png (SELECTED)
+- Ergebnis: modulia-workspace-02.png (EXPLORATION)
+- Ablauf: Gegenansicht erzeugt, dann Bildschirmrichtung zur offenen Arbeitsfläche korrigiert. Zwischenbild nicht als aktive Referenz übernommen.
+- Prüfung: Fenster links, Konsole/Eingang rechts, Archivwand außerhalb des Blickfelds, gelbe Ablage am hinteren Konsolenende. Bildschirmgröße, Halterungen, Pflanzenpositionen und Konsolenkrümmung variieren noch gegenüber Bild 01; vor APPROVED abgleichen. Keine identische Geometrie behaupten.
+
+## Prompt Gegenansicht
+
+Use case: illustration-story / environment reverse-angle study. Use supplied image as the spatial and visual source for the SAME Modulia source-verification office, not a redesigned room. Create ONE coherent wide reverse three-quarter interior view from the opposite end, near the archive wall, looking back toward the rounded yellow-tray end of the console and the previously unseen plain end wall. This is an EXPLORATION for spatial verification.
+Immutable room relationships: original rear wall is the archive cabinet wall. Original left wall has the open rounded entrance and the work console; original right wall opposite entrance has the single deep-set Mars window and low cabinets. From the new camera looking away from the archive wall, the Mars WINDOW MUST BE ON THE LEFT of the image, and the CONSOLE AND ENTRANCE MUST BE ON THE RIGHT. Archive wall is behind the camera and must NOT be invented on the end wall ahead. Door remains in the west wall, nearer the archive end, so it may be partly cropped at far right near camera. No second entrance or second window. The newly revealed end wall ahead is simple cream modular service paneling with dark joints, no new architectural feature.
+Preserve the cream/petrol curved console with paired physical articulated monitors, the yellow tray with two small gray data cartridges at its rounded far end, cream panel walls, dark teal cabinets, cyan fittings, same number and style of large equipment. Show the two monitors from the back or oblique angle appropriate to the camera, do not rotate them to face camera. Show honest spatial occlusion. Retain the single large window opposite console, terracotta Mars and fan-crown foliage outside, same window plant; daylight now enters from image LEFT.
+Leave the central standing and circulation floor clearly visible, continuous and flush. Compact scale same room, no huge expansion. Character-free architectural view so we can assess layout; Modulia's absence is just a reference-shot choice, no story event. No robots or visitors.
+Image style: exactly the source's crisp black ink European album comic, warm cream and petrol palette, clean graphic shadows, restrained hatching, small realistic service wear, sunny intimate workspace. No text, labels, diagram overlays, extra archive walls, added furniture, new doors, mirror copy of source, holograms. This must show the room from its other end, including a previously unseen plain end wall, while preserving the real layout.
+
+## Prompt Korrektur
+
+Edit only the two monitors and their support-arm orientation in this supplied comic office reverse-angle image. Preserve absolutely the camera, room, door on right, window on left, curved console, yellow tray at far end, plants, cabinets, floor and light. The monitors currently show backs toward the central standing aisle, which is wrong for this workstation. Turn both physical monitor assemblies so their luminous screen fronts face the open central aisle to image LEFT, with their backs toward the right-hand door wall. From this camera the screen fronts should be visible at a strong oblique angle with two restrained cyan comparison diagrams, not perfectly frontal. Keep the monitors on their existing two bases, same size and position and same frame style. Adjust articulated arms coherently. Do not mirror or rotate any other object. No text, labels or new props. Same black ink comic rendering. EXPLORATION spatial correction.
+

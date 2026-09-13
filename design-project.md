@@ -16,12 +16,15 @@ Kein projektweit SELECTED, APPROVED oder LOCKED Style Pack. Die vorläufige Arbe
 - Ensemble und Stilreferenzen: `design/references/`
 - Erde: `design/environments/earth/references/`
 - Mars-Design und Bildstatus: `design/environments/mars/design.md`
+- Modulias Arbeitsplatz und Bildstatus: `design/environments/modulia-workspace/design.md`
 - Narrative Schreibregeln: `style/`; der leere Altbestand visual-style.md wird nicht automatisch migriert.
 
 ## Status und Zuständigkeit
 
-Das Projekt-Repo bleibt Source of Truth; die externen Frameworks liefern Arbeitslogik und Handoffs. Alle vorhandenen Bildentwürfe werden als EXPLORATION geführt. Narrative Zustände CANON / INFERENCE / PROPOSAL / CONFLICT / OPEN sind unabhängig von EXPLORATION / SELECTED / APPROVED / LOCKED / SUPERSEDED im Design. Eine akzeptierte Weltregel gibt kein Bild frei. APPROVED und LOCKED erfordern explizite Autorenentscheidung.
+Das Projekt-Repo bleibt Source of Truth; die externen Frameworks liefern Arbeitslogik und Handoffs. Bildentwürfe sind standardmäßig EXPLORATION; ausdrücklich gewählte Richtungen werden mit ihrem jeweiligen Status im Designrecord geführt. Modulias Arbeitsplatz ist zur späteren Weiterbearbeitung zurückgestellt: sämtliche Büro-Bilder haben Arbeitsstatus PROPOSAL und Design state EXPLORATION. Frühere SELECTED-Zuweisungen sind zurückgenommen; keine aktive Raum- oder Lichtreferenz ist verbindlich ausgewählt. Vollständiger Bestand und Einschränkungen stehen im Büro-Designrecord und dessen Referenzübersicht. Narrative Zustände CANON / INFERENCE / PROPOSAL / CONFLICT / OPEN sind unabhängig von EXPLORATION / SELECTED / APPROVED / LOCKED / SUPERSEDED im Design. Eine akzeptierte Weltregel gibt kein Bild frei. APPROVED und LOCKED erfordern explizite Autorenentscheidung.
 
 ## Aktueller Fokus
 
 Funktionale Terraforming-Terrassen, ungewöhnliche Vegetation und Architektur für unterschiedliche KI-Körper auf dem Mars. Die Erde-Bilder dienen ausschließlich als Umgebungs- und Stilreferenzen; ihre Roboter und Geräte werden ignoriert.
+
+Modulias Arbeitsplatz: alle Entwürfe als PROPOSAL abgelegt, spätere Weiterbearbeitung nach Autorenwunsch. Beim Wiederaufnehmen zuerst Raumgeometrie und Möbelkontinuität prüfen; keine weitere Generierung automatisch starten.
