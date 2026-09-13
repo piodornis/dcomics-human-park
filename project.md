@@ -53,7 +53,7 @@ Document deviations from the framework here rather than forcing generic Skills t
 Reusable Skills, shared schemas, and the project template are maintained in the separate framework repository, not vendored into this project:
 
 ```
-/Users/ralphdornis/Documents/GitHub/comic-story-framework
+/Users/ralphdornis/Documents/GitHub/comic-framework-story
 ```
 
 Compatibility target: `comic-project-standard-v1`.
