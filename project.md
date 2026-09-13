@@ -52,3 +52,13 @@ Define when drafted material becomes canon for this project. Example: only after
 ## Project-specific conventions
 
 Document deviations from the framework here rather than forcing generic Skills to guess.
+
+## Framework reference
+
+Reusable Skills, shared schemas, and the project template are maintained in the separate framework repository, not vendored into this project:
+
+```
+/Users/ralphdornis/Documents/GitHub/comic-story-framework
+```
+
+Compatibility target: `comic-project-standard-v1`.
