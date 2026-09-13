@@ -27,6 +27,20 @@ B-21 ist ein kompakter Wartungsbot aus einer älteren technischen Generation. Se
 
 Für B-21 beginnt Pflege mit Verlässlichkeit. Er denkt in Wartungsintervallen, Sicherheitsabständen und dokumentierten Zuständigkeiten. Lebewesen behandelt er zunächst wie besonders störanfällige Systeme – bis die Zusammenarbeit mit B-73 und den Menschen sein Verständnis von Verantwortung erweitert.
 
+## Herkunft: Vor dem Human Park
+
+**CANON** (bestätigt durch den Autor, 2026-09-13)
+
+Lange bevor B-21 im Human Park Dienst tat, wartete er allein eine unterirdische Anlage auf der Erde — genau jene, in der später die fünf Kryokammern gefunden wurden. Wie lange und in welchem ursprünglichen Auftrag, ist **OPEN**; B-21 selbst spricht nie darüber.
+
+Als eine befreundete Forschungs-KI die Anlage durch Bohrungen im ewigen Eis entdeckte (siehe `canon/timeline.md`) und der Abtransport der fünf Kryokammern zum Mars vorbereitet wurde, blieb B-21 unentdeckt. Er war zu diesem Zeitpunkt weder auf dem Mars registriert noch zur Ausreise von der Erde berechtigt. Statt sich zu offenbaren oder zurückzubleiben, schlich er sich heimlich an Bord des Transporters.
+
+Auf dem Mars wurde er nie offiziell erfasst oder überprüft — eine einfache Funktionsklasse fällt niemandem auf, der nach Personen sucht (siehe `canon/world-rules.md`, Funktionsklassen-Doktrin). Er integrierte sich unauffällig in die Wartungsarbeiten des entstehenden Human Park.
+
+**Konsequenz für sein Charakterbild:** Seine auffällige Regeltreue liest sich rückblickend auch als Überkompensation. B-21 hat genau einmal die größtmögliche Vorschrift gebrochen — und lebt seither so regelkonform wie möglich, um nie wieder aufzufallen. Sein Misstrauen gegenüber Improvisation (siehe „Charakterprofil") ist damit auch Selbstschutz.
+
+**Wissensstand:** B-73 weiß nichts davon — siehe `relationships/b-21__b-73.md`.
+
 ## Einsatzgeschichte
 
 ### Früher Einsatz
@@ -124,7 +138,7 @@ B-21 verkörpert die Erinnerung der Infrastruktur. Er macht sichtbar, wie viel v
 
 - Exaktes Herstellungs- oder Aktivierungsdatum
 - Hersteller und ursprüngliche Modellbezeichnung
-- Dauer möglicher Alleinbetriebsphasen
+- Genaue Dauer und Auftrag seiner Alleinbetriebsphase auf der Erde (Faktum jetzt CANON, Details OPEN — siehe „Herkunft: Vor dem Human Park")
 - Ursache der auffälligsten Gehäusereparatur
-- Frühere Begegnungen mit Menschen oder Kryotechnik
-- Das Ereignis, bei dem B-21 erstmals eine Vorschrift bewusst umgeht
+- ~~Frühere Begegnungen mit Menschen oder Kryotechnik~~ → **beantwortet**, siehe „Herkunft: Vor dem Human Park"
+- ~~Das Ereignis, bei dem B-21 erstmals eine Vorschrift bewusst umgeht~~ → **beantwortet**: der heimliche Transport zum Mars. Issue 3 ist damit sein *zweites* bewusstes Regelbrechen, nicht sein erstes.

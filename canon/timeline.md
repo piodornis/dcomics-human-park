@@ -9,11 +9,15 @@
 3. **CANON.** Frühere KI-Forschung versucht, menschliche Gehirne/Menschen biologisch wiederherzustellen — erweist sich als problematisch.
 4. **CANON.** Die Zentrale Verwaltungs-KI erlässt ein vollständiges Verbot der Züchtung menschlicher Organismen, später ausgeweitet auf einzelne menschliche Gehirne.
 
+### Vor Heft 1 — B-21 auf der Erde (CANON, ergänzt 2026-09-13)
+
+4b. **Unbekannter Zeitraum vor der Entdeckung.** B-21 wartet allein die unterirdische Erd-Anlage, in der die fünf Kryokammern stehen — Dauer und ursprünglicher Auftrag **OPEN**. Niemand außerhalb der Anlage weiß von seiner Existenz dort.
+
 ## Auftakt (Heft 1)
 
-5. Eine befreundete Forschungs-KI auf der Erde entdeckt bei Bohrungen im ewigen Eis eine unterirdische Anlage mit fünf funktionierenden, aber auffällig jungen Kryokammern. Kontaktaufnahme mit Modulia statt direkter Meldung an die Zentrale Verwaltung.
+5. Eine befreundete Forschungs-KI auf der Erde entdeckt bei Bohrungen im ewigen Eis eine unterirdische Anlage mit fünf funktionierenden, aber auffällig jungen Kryokammern. Kontaktaufnahme mit Modulia statt direkter Meldung an die Zentrale Verwaltung. B-21 bleibt bei der Entdeckung unentdeckt.
 6. Modulia meldet den Fund an die Zentrale Verwaltungs-KI. Juristische Sonderlösung: nicht neu erzeugt (kein Verstoß gegen Züchtungsverbot), aber Angehörige einer ausgestorbenen, geschützten Art → Verwahrung ohne freies Leben.
-7. Transport der fünf Kammern zum Mars.
+7. Transport der fünf Kammern zum Mars. **B-21 schleicht sich heimlich mit an Bord** — er ist weder auf dem Mars registriert noch zur Ausreise von der Erde berechtigt. Er wird bei der Ankunft nie offiziell erfasst und integriert sich unauffällig in die spätere Wartungsarbeit des Human Park.
 8. Reaktivierung der fünf Menschen auf dem Mars, Modulia anwesend. Sie nennen sich: Mara, Jun, Salim, Liv, David. Mara widerspricht der Bezeichnung „Exemplar“ / „Eigenbezeichnung“.
 9. Die fünf schweigen über die Ursache ihrer Kryokonservierung und den Ursprung der Warnbotschaft.
 10. Unterbringung in einer eigens errichteten humanbiologischen Schutzanlage (Natur, Wasser, Nahrung, Unterkünfte, Werkzeuge, ungefährliche Tiere, Feuerstelle, medizinische Sicherheit — aber ohne erkennbaren Ausgang).

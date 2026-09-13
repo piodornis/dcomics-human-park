@@ -91,6 +91,7 @@ Vollständig **OPEN**: Entstehungszeitpunkt der Aufnahme, Ursache und Verantwort
 ## Robotereinheiten im Human Park
 
 - **B-21** — Wartungs-/Hygiene-/Sicherheitsbot älterer Generation. Details: `characters/b-21/`.
+  **CANON:** B-21 wartete vor Heft 1 allein die Erd-Anlage, in der die fünf Kryokammern gefunden wurden, und schlich sich unentdeckt an Bord des Transporters zum Mars (siehe `canon/timeline.md`, Schritte 4b/7). Er wurde nie offiziell registriert — begünstigt durch die Funktionsklassen-Doktrin (`canon/world-rules.md`), die einfache Funktionsbots administrativ unsichtbar macht. B-73 weiß davon nichts.
 - **B-73** — moderner Pfleger-/Reinigungsbot. Details: `characters/b-73/`.
 - Beziehung und Arbeitsteilung der beiden: `relationships/b-21__b-73.md`.
 
