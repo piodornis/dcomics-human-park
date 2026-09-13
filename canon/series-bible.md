@@ -39,6 +39,8 @@ Auf dem Mars existiert eine KI-Gesellschaft mit eigener Wissensinfrastruktur, ad
 - Reine Pflanzen-/Mikroorganismen-Ökosysteme brachen regelmäßig zusammen; Tiere (trotz „Unvernunft" — unplanmäßige Vermehrung, ziellose Bewegung) machten Ökosysteme wesentlich widerstandsfähiger.
 - **Thematischer Kern (bereits im Originaltext explizit):** „Eine funktionierende Natur benötigt nicht nur Ordnung, sondern auch ein gewisses Maß an Unvernunft." — direkte Parallele zur späteren Personenstatus-/Exemplar-Frage.
 
+- **CANON — Terraforming-Terrassen:** Infrastruktur für Wasserführung, Sedimentrückhalt, Feuchtigkeitszonen und abschnittsweise Wartung. Beschreibung und offene Baufragen: `canon/world-rules.md`, „Terraforming-Terrassen auf dem Mars“.
+
 ### Die Erde
 
 - Gilt als verlassen, ist aber technisch weiter aktiv: Rechenzentren, Kraftwerke (u. a. Atomkraft, Wind) und alte Wartungsroboter halten die Systeme am Laufen, teils ohne zu wissen, was in den Rechenzentren gespeichert ist — sie wissen nur, dass die Systeme weiterlaufen müssen.

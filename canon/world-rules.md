@@ -6,6 +6,20 @@ Record confirmed rules and constraints that shape what is possible in the settin
 
 ## Established Rules
 
+### Terraforming-Terrassen auf dem Mars
+
+**CANON — funktionale Grundidee vom Autor in der Mars-Design-Sitzung bestätigt.**
+
+Terrassen sind Infrastruktur des Terraformings. Sie verlangsamen den Wasserabfluss, halten Sedimente zurück und schaffen unterschiedliche Feuchtigkeitszonen. Überläufe verbinden die Becken; einzelne Bereiche lassen sich zur Wartung abtrennen. Sie verbinden Lebensräume mit zugänglichen Betriebsflächen.
+
+Sie ergänzen die etablierten künstlichen Gebirgszüge, Seen als Wärmespeicher und Wälder als Lebensräume, Kraftwerke und Kühlsysteme (`issues/issue-001/script.md`).
+
+**PROPOSAL — konkrete Bauweise zur Weiterentwicklung:** Über viele Bauphasen durch Bau-KIs angelegte, aus vorhandenem Fels geschnittene oder aufgeschüttete Geländestufen. Befestigte Kanten konzentrieren sich auf Wasserläufe und beanspruchte Betriebsstellen. Terrassen folgen örtlichen Geländeformen; regelmäßige Geometrie wird dort eingesetzt, wo Wasserführung oder Wartung sie begründen.
+
+**OPEN:** genaue Materialien, Bauphasen, Abmessungen und technische Regelung. Daraus entstehen keine neuen Energiequellen oder Gesellschaftshierarchien.
+
+Design-Handoff: `design/environments/mars/design.md`. Die Zustimmung zur funktionalen Grundidee gibt kein Bild frei; alle Mars-Entwürfe bleiben EXPLORATION.
+
 ### Governance der marsianischen KI-Gesellschaft
 
 **PROPOSAL**
