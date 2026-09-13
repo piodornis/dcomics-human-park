@@ -1,0 +1,13 @@
+interface:
+  display_name: Comic Story Architect
+  short_description: Plans comic arcs, issues, beats, and character development while
+    preserving canon status.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
