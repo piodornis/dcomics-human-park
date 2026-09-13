@@ -1,10 +1,10 @@
 # Environment Design — Modulias Quellenprüfraum
 
 - Environment ID: modulia-workspace
-- Version: 0.3
-- Arbeitsstatus aller Büroentwürfe: PROPOSAL — ausdrückliche Autorenentscheidung, später weiterbearbeiten.
-- Design state aller Büroentwürfe: EXPLORATION (unfreigegeben).
-- Keine aktive SELECTED-, APPROVED- oder LOCKED-Variante. Frühere SELECTED-Zuweisungen sind zurückgenommen; ihr Verlauf bleibt unten dokumentiert.
+- Version: 0.4
+- Design state der aktuellen Vierer-Serie: SELECTED — ausdrückliche Autorenentscheidung vom 2026-09-13.
+- Ausgewählt: A v4, B v6, C Fenster v5, D Tür v10; siehe `references/selection.md`.
+- Frühere Varianten bleiben EXPLORATION. Keine APPROVED- oder LOCKED-Freigabe.
 - Maßgebliche Bestands- und Statusübersicht: `references/README.md`.
 - Narrative status: mixed; Modulias Aufgabe CANON, Raum und Ausstattung PROPOSAL.
 - Framework: comic-design-standard-v1
@@ -25,7 +25,7 @@ Der vorgeschlagene Arbeitsplatz dient dem Vergleich von Quellen, dem Kennzeichne
 - Gelbe Ablage mit zwei Modulen für ungeklärte Fälle.
 - Seitliches Marsfenster, Pflanzen und offene Bewegungsfläche.
 
-Diese Merkmale sind Vorschläge für die spätere Weiterbearbeitung. Kein Bild oder Detail ist aktuell ausgewählt oder freigegeben.
+Die aktuelle Vierer-Serie ist als visuelle Richtung SELECTED. Narrative Aussagen bleiben PROPOSAL; eine Produktionsfreigabe ist damit nicht erteilt.
 
 ## Räumliche Arbeitsdefinition
 
@@ -36,13 +36,18 @@ Orientierungsnamen sind nur lokale Planbezeichnungen, keine geografischen Himmel
 - Ost: einziges großes Fenster gegenüber der Konsole. Das niedrige Regal am südlichen Abschnitt ist in A vorne rechts angeschnitten und in B hinten links sichtbar. In B ist vorne links kein Regal sichtbar.
 - Süd: im Ausgangsbild hinter der Kamera; zunächst einfache modulare Abschlusswand als PROPOSAL.
 
-Bild 01 blickt ungefähr von Süd nach Nord. Die Gegenansicht soll von der Archivseite nach Süd blicken: Fenster links, Konsole rechts; Archivwand und Eingang hinter der Kamera und nicht sichtbar. Keine zweite Archivwand, Tür oder Fenster zur bequemeren Bildkomposition ergänzen. Das gelbe Tablett ist am südlichen Konsolenende vorgesehen. Der beige türlose Bereich unter der Arbeitsplatte und ein grauer Rollcontainer vor dem niedrigen Schrank wurden in B v4/v5 ergänzt. B v5 erprobt eine breitere Abschlusswand und eine korrigierte Containerposition. Die Fensteransicht C ist eine zusätzliche räumliche Interpretation. Monitore richten sich zur Arbeitsposition im Raum, nicht automatisch zur Kamera.
+A blickt von Süd nach Nord zum Archiv; B von der Archivseite nach Süd: Fenster links, Konsole rechts, Archiv und Eingang hinter der Kamera. C blickt von der Fenstermitte nach West zum Eingang; der niedrige Schrank an der Fensterwand liegt außerhalb des Bildes. D blickt vom Eingang im nördlichen/links liegenden Abschnitt der Westwand nach Ost mit engerem Bildwinkel; rechter Raumteil außerhalb des Bildes, Fenster angeschnitten, Monitorrückseiten sichtbar.
 
+Die Konsole steht freistehend mit Wandabstand und ihrer Längsachse parallel zur Türwand. Arbeitsfront: drei blaue Türen schmal–breit–schmal; die frühere beige türlose Fläche ist überholt. Die geschwungene Form bleibt von hinten als flacher Bogen erkennbar. Monitore stehen eng beieinander; D v10 zeigt höhere Gehäuse. Kein Rollcontainer in der aktuellen Serie.
+
+Gelbes Tablett und Tischpflanze am südlichen Konsolenende. Die Archivpflanze nahe dem Eingang steht auf einer höheren Ablage, nicht auf der unteren Schrankarbeitsplatte; D v10 ist hierfür die neueste Korrektur. Separate Hängepflanze oben am anderen Archivende, niedrige Fensterbankbepflanzung und Blattpflanze auf dem niedrigen Schrank an der Fensterwand.
+
+Zwischen innerer Bürotür und äußerer Tür liegt ein Bereich mit seitlich sichtbarem Felsen. Beim Verlassen des Büros schließt sich links ein Gang an; Verlauf, Länge und Ziel bleiben offen. Siehe `references/modulia-eingang-gang-proposal.md`.
 Diese aus der Perspektive abgeleitete Geometrie ist eine prüfbare Arbeitsdefinition, kein genehmigter Bauplan. Eingang, freier Mittelbereich und Konsole müssen ohne Hindernisse verbunden bleiben.
 
 ## Maßstab, Material und Licht
 
-Platz für Modulias mobile Einheit und eine zweite Figur. Exakte Raummaße OPEN; kein verlässlicher Maßstab aus Pixeln. Cremefarbene technische Wandmodule mit Fugen und Wartungsflächen, Petrol-Unterschränke, Türkis-Anschlüsse, gelbe Ablage. Weiches diffuses Tageslicht durch das Ostfenster: in A von rechts, in B von links. Keine unbegründeten dreieckigen Licht- oder Schattenkeile auf dem Boden. Weiche objektgebundene Schatten und Kontaktschatten unter Möbeln; Deckenleuchten ergänzen eine schwache Grundbeleuchtung. Klare schwarze Konturen, grafische Schatten und reduzierte Detaildichte im Dialogbereich.
+Platz für Modulias mobile Einheit und eine zweite Figur. Exakte Raummaße OPEN; kein verlässlicher Maßstab aus Pixeln. Cremefarbene technische Wandmodule mit Fugen und Wartungsflächen, Petrol-Unterschränke, Türkis-Anschlüsse, gelbe Ablage. Warmes Sonnenlicht durch das Ostfenster: in A von rechts, in B von links, in C von hinter der Kamera, in D von vorne. Die frühere rein diffuse Lichtfassung ist überholt. Keine unbegründeten dreieckigen Licht- oder Schattenkeile auf dem Boden. Weiche objektgebundene Schatten und Kontaktschatten unter Möbeln; Deckenleuchten ergänzen eine schwache Grundbeleuchtung. Klare schwarze Konturen, grafische Schatten und reduzierte Detaildichte im Dialogbereich.
 
 ## Ausstattung und offene Technik
 
@@ -50,9 +55,9 @@ Die Archivmodule sind eine visuelle Metapher bzw. mögliche physische Datenträg
 
 ## Referenzen und Status
 
-Alle Büro-Bilder einschließlich Original, misslungener Zwischenansichten, A/B-Korrekturen und Fensteransicht C sind vollständig unter `references/` abgelegt. Für alle gilt Arbeitsstatus PROPOSAL / Design state EXPLORATION. Die Tabelle in `references/README.md` benennt Reihenfolge, Zweck und Einschränkungen. Die jeweils höhere Versionsnummer bezeichnet eine spätere Korrektur, keine Freigabe.
+Die aktuelle Auswahl A v4 / B v6 / C v5 / D v10 liegt unter `references/` und hat Design state SELECTED. `references/selection.md` und `references/README.md` dokumentieren Auswahl und Bestand. Die jüngeren, nicht ausgewählten Zwischenbilder und ihre Protokolle werden ebenfalls erhalten; ältere Varianten bleiben EXPLORATION.
 
-Die ursprünglichen Generierungsprotokolle bleiben als historische Aufzeichnungen unverändert. Dort erwähnte SELECTED-Zustände oder damalige Prüfaussagen gelten nicht als aktueller Status. Maßgeblich sind dieser Designrecord und die Bestandsübersicht.
+Historische Generierungsprotokolle können frühere PROPOSAL-/EXPLORATION- oder SELECTED-Zustände nennen. Maßgeblich sind die aktuelle Auswahl und dieser Designrecord. Narrative Zustände bleiben davon unabhängig.
 
 Externe Referenzen: `../../characters/modulia-01.png` (Figurenentwurf) und `../mars/references/mars-03.png` (Mars-Bildsprache). Deren Status wird durch diese Büroentscheidung nicht geändert.
 
@@ -78,8 +83,14 @@ Der Autor hat ausdrücklich die beiden zuletzt erzeugten lichtkorrigierten Bilde
 
 Sichtprüfung bestätigt die beauftragten Korrekturen. A/B sind generierte Raumstudien, keine aus einem gemeinsamen 3D-Modell gerenderten Ansichten. Exakte Maße, Schrankmodule, Monitoranordnung und kleinere Dekorationsdetails sind vor wiederkehrender Produktion weiter abzugleichen. Nächster Praxistest: Gesprächsszene mit Modulia und B-73.
 
-## Aktuelle Autorenentscheidung — spätere Weiterbearbeitung
+## Frühere Autorenentscheidung — spätere Weiterbearbeitung
 
-Der Autor möchte alle Büro-Bilder als PROPOSAL ablegen und den Raum bei Gelegenheit weiterbearbeiten. Damit sind die früheren Auswahlen einschließlich Originalbild 01 und A/B v3 zurückgenommen. Kein Bild ist aktuell die verbindliche Raumvorlage. Alle Varianten bleiben erhalten und werden im Design-Lebenszyklus als EXPLORATION geführt.
+Der Autor möchte alle Büro-Bilder als PROPOSAL ablegen und den Raum bei Gelegenheit weiterbearbeiten. Damit wurden damals die früheren Auswahlen einschließlich Originalbild 01 und A/B v3 zurückgenommen. Dieser pauschale Zwischenstatus ist durch die nachfolgende Auswahl überholt; die alten Varianten bleiben EXPLORATION.
 
 Kein automatischer nächster Generierungs- oder Produktionsschritt und keine Erinnerung eingerichtet. Beim Wiederaufnehmen zuerst Grundriss und Kameras anhand der Hinweise prüfen, dann Konsolenabstand, Frontaufteilung, Wandbreiten, Regal-/Rollcontainerpositionen und Beleuchtung vereinheitlichen. Die bisherigen Bilder nicht ungeprüft zu einer vermeintlich konsistenten Raumgeometrie kombinieren.
+
+## Aktuelle Autorenentscheidung — SELECTED
+
+Am 2026-09-13 wurden die letzten vier Ansichten A v4, B v6, C Fenster v5 und D Tür v10 ausdrücklich als SELECTED bestimmt und zur lokalen Ablage beauftragt. Die Dateien sind in `references/selection.md` einzeln aufgeführt. Keine automatische Hochstufung auf APPROVED oder LOCKED; narrative Vorschläge bleiben unverändert.
+
+Die zuvor festgestellten Unterschiede bei exakten Wand-/Fenstermaßen, Tischkrümmung, Moduldetails und Schattenpositionen bleiben für einen späteren Kontinuitätsdurchgang dokumentiert. Die Auswahl ist eine visuelle Referenzentscheidung, kein Nachweis eines gemeinsamen vermessenen Raummodells.

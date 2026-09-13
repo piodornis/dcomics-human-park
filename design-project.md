@@ -21,10 +21,10 @@ Kein projektweit SELECTED, APPROVED oder LOCKED Style Pack. Die vorläufige Arbe
 
 ## Status und Zuständigkeit
 
-Das Projekt-Repo bleibt Source of Truth; die externen Frameworks liefern Arbeitslogik und Handoffs. Bildentwürfe sind standardmäßig EXPLORATION; ausdrücklich gewählte Richtungen werden mit ihrem jeweiligen Status im Designrecord geführt. Modulias Arbeitsplatz ist zur späteren Weiterbearbeitung zurückgestellt: sämtliche Büro-Bilder haben Arbeitsstatus PROPOSAL und Design state EXPLORATION. Frühere SELECTED-Zuweisungen sind zurückgenommen; keine aktive Raum- oder Lichtreferenz ist verbindlich ausgewählt. Vollständiger Bestand und Einschränkungen stehen im Büro-Designrecord und dessen Referenzübersicht. Narrative Zustände CANON / INFERENCE / PROPOSAL / CONFLICT / OPEN sind unabhängig von EXPLORATION / SELECTED / APPROVED / LOCKED / SUPERSEDED im Design. Eine akzeptierte Weltregel gibt kein Bild frei. APPROVED und LOCKED erfordern explizite Autorenentscheidung.
+Das Projekt-Repo bleibt Source of Truth; die externen Frameworks liefern Arbeitslogik und Handoffs. Bildentwürfe sind standardmäßig EXPLORATION; ausdrücklich gewählte Richtungen werden mit ihrem jeweiligen Status im Designrecord geführt. Modulias Arbeitsplatz: A v4, B v6, C Fenster v5 und D Tür v10 sind ausdrücklich SELECTED. Frühere Fassungen bleiben EXPLORATION. Auswahl, Kontinuität und Einschränkungen stehen im Büro-Designrecord und in `design/environments/modulia-workspace/references/selection.md`. Narrative Zustände CANON / INFERENCE / PROPOSAL / CONFLICT / OPEN sind unabhängig von EXPLORATION / SELECTED / APPROVED / LOCKED / SUPERSEDED im Design. Eine akzeptierte Weltregel gibt kein Bild frei. APPROVED und LOCKED erfordern explizite Autorenentscheidung.
 
 ## Aktueller Fokus
 
 Funktionale Terraforming-Terrassen, ungewöhnliche Vegetation und Architektur für unterschiedliche KI-Körper auf dem Mars. Die Erde-Bilder dienen ausschließlich als Umgebungs- und Stilreferenzen; ihre Roboter und Geräte werden ignoriert.
 
-Modulias Arbeitsplatz: alle Entwürfe als PROPOSAL abgelegt, spätere Weiterbearbeitung nach Autorenwunsch. Beim Wiederaufnehmen zuerst Raumgeometrie und Möbelkontinuität prüfen; keine weitere Generierung automatisch starten.
+Modulias Arbeitsplatz: aktuelle Vierer-Serie SELECTED und lokal abgelegt. Vor wiederkehrender Produktion exakte Raumgeometrie und Möbelkontinuität weiter abgleichen. Ganganschluss links beim Hinausgehen als PROPOSAL für spätere Ausarbeitung festgehalten.

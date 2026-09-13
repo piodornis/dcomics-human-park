@@ -1,9 +1,21 @@
 # Büroentwürfe — vollständiger Bestand
 
-**Arbeitsstatus sämtlicher Bilder und der Draufsicht: PROPOSAL.**
-**Design state: EXPLORATION.** Keine aktive Auswahl oder Produktionsfreigabe.
+**Aktuelle Auswahl: A v4 / B v6 / C Fenster v5 / D Tür v10 — SELECTED.**
 
-Der Autor möchte das Büro später weiterbearbeiten. Frühere SELECTED-Zustände sind zurückgenommen. Historische Promptdateien können frühere Zustände enthalten; diese Übersicht und `../design.md` bestimmen den aktuellen Status.
+Explizite Autorenentscheidung vom 2026-09-13. Keine APPROVED-/LOCKED-Freigabe. Narrative Vorschläge bleiben PROPOSAL. Siehe [Auswahl und Kontinuität](selection.md). Historische Protokolle sind keine aktuellen Statusquellen.
+
+## Ausgewählte Ansichten
+
+| Datei | Ansicht | Status |
+|---|---|---|
+| [modulia-arbeitsplatz-sicht-a-v4.png](modulia-arbeitsplatz-sicht-a-v4.png) | A – Blick zum Archiv | SELECTED |
+| [modulia-arbeitsplatz-sicht-b-v6.png](modulia-arbeitsplatz-sicht-b-v6.png) | B – Gegenblick zur geschlossenen Wand | SELECTED |
+| [modulia-arbeitsplatz-sicht-c-fenster-v5.png](modulia-arbeitsplatz-sicht-c-fenster-v5.png) | C – Blick vom Fenster zum Eingang | SELECTED |
+| [modulia-arbeitsplatz-sicht-d-tuer-v10.png](modulia-arbeitsplatz-sicht-d-tuer-v10.png) | D – Blick vom linken Eingang in den Raum | SELECTED |
+
+## Frühere Explorationen
+
+Alle folgenden Bilder bleiben EXPLORATION.
 
 | Datei | Rolle / Einschränkung |
 |---|---|
@@ -33,3 +45,35 @@ Der Autor möchte das Büro später weiterbearbeiten. Frühere SELECTED-Zuständ
 - [modulia-workspace-02-generation.md](modulia-workspace-02-generation.md)
 
 Alle Dateien bleiben an Ort und Stelle; keine Löschung, Verschiebung oder Archivierung. Keine Kanonänderung durch die Ablage.
+
+## Weitere erhaltene Zwischenfassungen — EXPLORATION
+
+- [modulia-arbeitsplatz-sicht-c-fenster-v2.png](modulia-arbeitsplatz-sicht-c-fenster-v2.png)
+- [modulia-arbeitsplatz-sicht-c-fenster-v3.png](modulia-arbeitsplatz-sicht-c-fenster-v3.png)
+- [modulia-arbeitsplatz-sicht-c-fenster-v4.png](modulia-arbeitsplatz-sicht-c-fenster-v4.png)
+- [modulia-arbeitsplatz-sicht-d-tuer-v1.png](modulia-arbeitsplatz-sicht-d-tuer-v1.png)
+- [modulia-arbeitsplatz-sicht-d-tuer-v2.png](modulia-arbeitsplatz-sicht-d-tuer-v2.png)
+- [modulia-arbeitsplatz-sicht-d-tuer-v3.png](modulia-arbeitsplatz-sicht-d-tuer-v3.png)
+- [modulia-arbeitsplatz-sicht-d-tuer-v4.png](modulia-arbeitsplatz-sicht-d-tuer-v4.png)
+- [modulia-arbeitsplatz-sicht-d-tuer-v5.png](modulia-arbeitsplatz-sicht-d-tuer-v5.png)
+- [modulia-arbeitsplatz-sicht-d-tuer-v6.png](modulia-arbeitsplatz-sicht-d-tuer-v6.png)
+- [modulia-arbeitsplatz-sicht-d-tuer-v7.png](modulia-arbeitsplatz-sicht-d-tuer-v7.png)
+- [modulia-arbeitsplatz-sicht-d-tuer-v8.png](modulia-arbeitsplatz-sicht-d-tuer-v8.png)
+- [modulia-arbeitsplatz-sicht-d-tuer-v9.png](modulia-arbeitsplatz-sicht-d-tuer-v9.png)
+
+## Neuere Protokolle und Notizen
+
+- [modulia-ansichten-abgleich-proposal.md](modulia-ansichten-abgleich-proposal.md)
+- [modulia-eingang-gang-proposal.md](modulia-eingang-gang-proposal.md)
+- [modulia-sicht-c-fenster-v4-prompt.md](modulia-sicht-c-fenster-v4-prompt.md)
+- [modulia-sicht-c-fenster-v5-prompt.md](modulia-sicht-c-fenster-v5-prompt.md)
+- [modulia-sicht-d-tuer-v1-prompt.md](modulia-sicht-d-tuer-v1-prompt.md)
+- [modulia-sicht-d-tuer-v10-prompt.md](modulia-sicht-d-tuer-v10-prompt.md)
+- [modulia-sicht-d-tuer-v2-prompt.md](modulia-sicht-d-tuer-v2-prompt.md)
+- [modulia-sicht-d-tuer-v3-prompt.md](modulia-sicht-d-tuer-v3-prompt.md)
+- [modulia-sicht-d-tuer-v4-prompt.md](modulia-sicht-d-tuer-v4-prompt.md)
+- [modulia-sicht-d-tuer-v5-prompt.md](modulia-sicht-d-tuer-v5-prompt.md)
+- [modulia-sicht-d-tuer-v6-prompt.md](modulia-sicht-d-tuer-v6-prompt.md)
+- [modulia-sicht-d-tuer-v7-prompt.md](modulia-sicht-d-tuer-v7-prompt.md)
+- [modulia-sicht-d-tuer-v8-prompt.md](modulia-sicht-d-tuer-v8-prompt.md)
+- [modulia-sicht-d-tuer-v9-prompt.md](modulia-sicht-d-tuer-v9-prompt.md)
