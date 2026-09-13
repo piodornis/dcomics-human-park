@@ -48,6 +48,8 @@ Define when drafted material becomes canon for this project. Example: only after
 
 Document deviations from the framework here rather than forcing generic Skills to guess.
 
+- **`canon/conflicts.md`** (project-specific addition, not part of the standard schema): central index of all open/resolved `CONFLICT` entries, one line each, linking to the full write-up wherever it actually lives. Any Skill that finds or resolves a conflict should update this index.
+
 ## Framework reference
 
 Reusable Skills, shared schemas, and the project template are maintained in the separate framework repository, not vendored into this project:
