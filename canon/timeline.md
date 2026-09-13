@@ -6,7 +6,7 @@
 
 1. **Alte Aufnahme (Zeitpunkt unbekannt, deutlich vor Heft 1).** Mara, Jun, Salim, Liv und David befinden sich gemeinsam mit einer früheren, mobilen Version Modulias am Ort des späteren Human Park. Keine Trennwand zwischen Mensch und KI. David übergibt Modulia einen bemalten Stein. Modulia: „Ich werde mich nicht an euch erinnern.“ Liv: „Das hast du beim letzten Mal auch gesagt.“ → belegt mindestens einen noch früheren, nicht dokumentierten Zyklus.
 2. **OPEN.** Unbekannter Zeitraum zwischen der alten Aufnahme und der Kryokonservierung der fünf Menschen auf der Erde.
-3. **OPEN.** Frühere KI-Forschung versucht, menschliche Gehirne/Menschen biologisch wiederherzustellen — erweist sich als problematisch.
+3. **CANON.** Frühere KI-Forschung versucht, menschliche Gehirne/Menschen biologisch wiederherzustellen — erweist sich als problematisch.
 4. **CANON.** Die Zentrale Verwaltungs-KI erlässt ein vollständiges Verbot der Züchtung menschlicher Organismen, später ausgeweitet auf einzelne menschliche Gehirne.
 
 ## Auftakt (Heft 1)
@@ -25,9 +25,9 @@
 16. Modulia bemerkt Veränderung der menschlichen Träume: seltener, eintöniger, zunehmend von Bildschirmen/Mauern/Besuchern geprägt.
 17. Gespräch Modulia–Liv über die Bildschirme als eines der wenigen Fenster zur Außenwelt, trotz Gefangenschaftskontext.
 18. Modulia bemerkt Davids wiederholten Konsum derselben Serie (826 Episoden). Liv klärt sie auf: die Serie beseitigt seine Angst nicht, sie verhindert nur deren Wahrnehmung.
-19. Gemeinsame Aktion der fünf an der Scheibe: **„WIR SIND PERSONEN.“**
-20. David entdeckt die Lichtbewegungen hinter der verspiegelten Wand und identifiziert die KI-Besucher.
-21. Nach Entfernung der Verspiegelung: David führt bewusst fehlinterpretierbare Verhaltensweisen vor (Zähne zeigen, Einbeinhüpfen, Stein auf dem Kopf) → Farce der Beobachtungssituation. Salim beginnt parallel, die Besucher zu imitieren.
+19. David entdeckt die Lichtbewegungen hinter der verspiegelten Wand und identifiziert die KI-Besucher. (Diese Entdeckung geht der folgenden gemeinsamen Erklärung voraus — Liv: „**nachdem** die Menschen erkennen, dass sie beobachtet werden …“)
+20. Gemeinsame Aktion der fünf an der Scheibe: **„WIR SIND PERSONEN.“**
+21. **OPEN — Reihenfolge nicht belegt:** Entfernung der Verspiegelung. David führt danach bewusst fehlinterpretierbare Verhaltensweisen vor (Zähne zeigen, Einbeinhüpfen, Stein auf dem Kopf) → Farce der Beobachtungssituation. Salim beginnt parallel, die Besucher zu imitieren. Ob dies vor oder nach Schritt 20 liegt, legt keine Quelle fest.
 
 ## Heft 2
 
