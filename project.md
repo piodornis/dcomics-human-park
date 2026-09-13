@@ -2,26 +2,21 @@
 
 ## Project identity
 
-- **Title:** Working title
-- **Language:**
-- **Format:** Comic series / graphic novel / other
+- **Title:** Human Park
+- **Language:** Deutsch
+- **Format:** Comic-Serie (Hefte)
 - **Status:** Development
+- **Bereits veröffentlicht/entworfen:** Human Park Nr. 1 – „Fünf Exemplare“, Human Park Nr. 2 – „Artgerechte Haltung“
 
 ## Development entry point
 
-Choose the current primary entry point when useful:
-
-- `world-first`
-- `character-first`
-- `relationship-first`
-- `story-first`
-- `mixed`
-
-This is not permanent. The project may move between modes as it develops.
+`mixed` — Projekt startete mit ausgearbeiteten Charakteren (character-first) und bringt gleichzeitig erhebliches Weltwissen/Story-Kanon mit (world-first-Anteile, siehe `canon/series-bible.md`).
 
 ## Project premise
 
-Briefly describe the current idea. Keep unresolved material explicitly open.
+Fünf Menschen (Mara, Jun, Salim, Liv, David) werden in intakten Kryokammern auf der verlassenen Erde gefunden und auf den Mars gebracht, wo eine KI-Gesellschaft mit eigener Verwaltung, Rechtsprechung und Wissensinfrastruktur existiert. Sie werden in einer Schutzanlage untergebracht, die sich schrittweise zum „Human Park“ entwickelt — einer Mischung aus Gefängnis, Zoo und Forschungsstation. Die Wissens-KI Modulia begleitet ihren Fall und entdeckt zunehmend Widersprüche im eigenen System — bis eine alte Aufnahme beweist, dass sie die fünf Menschen bereits vor den Ereignissen der Serie kannte und ihre Erinnerung bereits einmal zuvor verloren hat.
+
+Vollständige Kanon-Zusammenfassung: `canon/series-bible.md`. Chronologie: `canon/timeline.md`. Begriffe: `canon/glossary.md`.
 
 ## Canon policy
 
