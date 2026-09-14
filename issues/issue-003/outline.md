@@ -29,6 +29,9 @@ Liv bemerkt, dass Modulia ungewöhnlich unkonzentriert/ausweichend ist, und verm
 ### Beat 5 — Der Fund
 Modulia und B-21 finden im Archiv ein konkretes, aber unvollständiges Fragment (eine alte Kennung, ein Ortshinweis, ein beschädigter Datensatz) — genug für eine neue Frage, nicht genug, um „Große Vergessen" aufzulösen.
 
+**PROPOSAL — mögliche Konkretisierung, 2026-09-14:** Das Fragment könnte eine ältere technische Bestandsdarstellung der Erd-Anlage enthalten. Modulia erkennt darin eine sechste Kammer, während der bekannte Fundbericht fünf nennt. Ihre Suche erweitert sich um die Frage nach dem fehlenden Objekt. Das Dokument belegt weder eine Belegung noch einen Zusammenhang mit Modulias früheren Versionen. Sein genauer Ursprung, B-21s Reaktion und sein Vorwissen bleiben offen. Diese Variante ist noch nicht als Fundinhalt ausgewählt; sie lässt sich einsetzen, ohne den bestehenden Vertrauenskonflikt zu verdrängen. Siehe `story/die-sechste-kryokammer.md`.
+
+
 ### Beat 6 — Die Lücke fällt auf
 B-73 bemerkt, dass B-21s Protokoll eine Lücke hat — untypisch genug, dass er es nicht ignorieren kann — und rekonstruiert, was geschehen ist.
 
@@ -71,6 +74,8 @@ End: ungelöst, spannungsgeladen.
 - S-003-3: Anhörungstermin (Beat 4) — wird A-Plot in Issue 4.
 - S-003-4 (aus Issue 1 übernommen): B-21s heimliche Ankunft auf dem Mars — B-73 weiß in Issue 3 noch nichts davon; bleibt größeres, noch nicht eingelöstes Setup für eine spätere Ausgabe.
 
+- S-003-5 (PROPOSAL, abhängig von der Variante zu Beat 5): Die Diskrepanz zwischen früher sechs und jetzt fünf Kammern wird zum konkreten Rechercheansatz. Auflösung und Folgeheft offen; keine sechste Person bestätigt.
+
 ## Payoffs
 
 - P-003-1 → S aus Heft 2: Modulias „heimliche Suche" (offener Punkt in ihrer Akte) wird eingelöst.
@@ -80,3 +85,4 @@ End: ungelöst, spannungsgeladen.
 - Was genau im Archiv gefunden wird
 - B-73s Entscheidung
 - Ob und wann B-73 je von B-21s Herkunft erfährt
+- Ob die sechste Kammer über die vorgeschlagene Variante von Beat 5 aufgegriffen wird oder erst später

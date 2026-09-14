@@ -64,6 +64,10 @@ Zentrales Mysterium-Artefakt: ein alter Videodatensatz, der die fünf Menschen g
 
 Die Technologie, in der die fünf Menschen auf der Erde in intaktem, aber auffällig jüngerem Zustand als die umgebende Anlage gefunden werden. Grund und Zeitpunkt der Konservierung sind **OPEN**.
 
+## Fehlende sechste Kryokammer
+
+**CANON:** Früher vorhandene, beim Fund bereits fehlende Kryokammer der Erd-Anlage. Die fünf gefundenen Kammern und Menschen bleiben unverändert. Eine sechste Person ist nicht bestätigt; Belegung, Verbleib und Wissen der Figuren sind **OPEN**. Verbindlicher Kern: `canon/series-bible.md`, „Die fehlende sechste Kryokammer“. Erzählerische Weiterentwicklung: `story/die-sechste-kryokammer.md`.
+
 ## B-21 / B-73
 
 Zwei Robotereinheiten im Human Park unterschiedlicher Generationen (B-21: älter, Wartung/Hygiene/Sicherheit; B-73: neuer, Pflege/Reinigung/Betreuung). Details: `characters/b-21/`, `characters/b-73/`, Beziehung: `relationships/b-21__b-73.md`.

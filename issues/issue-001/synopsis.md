@@ -27,5 +27,12 @@ Dieser Strang widerspricht nicht der offiziellen Entdeckung durch die Forschungs
 ## Bestätigung durch den Originaltext
 `script.md` bestätigt ausdrücklich: „Alte Roboter hätten offenbar über Jahrtausende hinweg die Temperatur, die Luftfilter und mehrere biologische Lebenserhaltungssysteme gewartet." — eine namenlose Gruppe von Wartungsrobotern an genau dieser Anlage ist damit bereits im Originaltext etabliert. B-21 als einer von ihnen ist eine Ergänzung, kein Widerspruch.
 
+## Ergänzung: die fehlende sechste Kryokammer (CANON, 2026-09-14)
+
+In der Fundanlage stand früher eine sechste Kryokammer, die beim Fund bereits fehlt. Der veröffentlichte Bericht über fünf Kammern mit fünf Menschen bleibt zutreffend. Wann die Abwesenheit erstmals bemerkt, gemeldet oder erzählerisch gezeigt wird, bleibt offen; der Originaltext in `script.md` wird nicht nachträglich um eine schon damals erfolgte Entdeckung ergänzt.
+
+Ein zurückhaltender visueller Hinweis auf den leeren Stellbereich ist **PROPOSAL** für eine spätere visuelle Ausarbeitung. Quellen und mögliche Wiederaufnahme: `canon/series-bible.md`, „Die fehlende sechste Kryokammer“, und `story/die-sechste-kryokammer.md`.
+
 ## Open Questions
 - Wie lange und mit welchem Auftrag war B-21 vor der Entdeckung allein auf der Erde?
+- Wann und von wem wird das Fehlen der sechsten Kammer erstmals bemerkt?

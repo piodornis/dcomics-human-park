@@ -1,7 +1,7 @@
 # Environment Design — Modulias Quellenprüfraum
 
 - Environment ID: modulia-workspace
-- Version: 0.4
+- Version: 0.5
 - Design state der aktuellen Vierer-Serie: SELECTED — ausdrückliche Autorenentscheidung vom 2026-09-13.
 - Ausgewählt: A v4, B v6, C Fenster v5, D Tür v10; siehe `references/selection.md`.
 - Frühere Varianten bleiben EXPLORATION. Keine APPROVED- oder LOCKED-Freigabe.
@@ -94,3 +94,13 @@ Kein automatischer nächster Generierungs- oder Produktionsschritt und keine Eri
 Am 2026-09-13 wurden die letzten vier Ansichten A v4, B v6, C Fenster v5 und D Tür v10 ausdrücklich als SELECTED bestimmt und zur lokalen Ablage beauftragt. Die Dateien sind in `references/selection.md` einzeln aufgeführt. Keine automatische Hochstufung auf APPROVED oder LOCKED; narrative Vorschläge bleiben unverändert.
 
 Die zuvor festgestellten Unterschiede bei exakten Wand-/Fenstermaßen, Tischkrümmung, Moduldetails und Schattenpositionen bleiben für einen späteren Kontinuitätsdurchgang dokumentiert. Die Auswahl ist eine visuelle Referenzentscheidung, kein Nachweis eines gemeinsamen vermessenen Raummodells.
+
+## Raumstudie v1 — 2026-09-14
+
+Auf Wunsch des Autors wird `modulia-workspace-01` als bevorzugte gestalterische Leitquelle verwendet; linke und hintere Wand sind zur räumlichen Überarbeitung bestimmt. Die aktuelle Vierer-Serie bleibt SELECTED.
+
+Die systematische Prüfung liegt in `reviews/environment-review-2026-09-14.md`. Die neue gemeinsame Geometrie mit Grundriss, vier Kameras, Maßen und Nebenmöbelinventar liegt in `geometry/raumstudie-v1/README.md`; interaktive Übersicht: `geometry/raumstudie-v1/raumstudie.html`. Status ausschließlich PROPOSAL / EXPLORATION.
+
+Alle vier schematischen Ansichten werden aus demselben Modell erzeugt. Maßvorschlag 4,80 × 5,60 × 3,00 m; Konsole parallel zur Türwand, mindestens 0,80 m Abstand dahinter; Monitore identisch. Feste Schränke K1/K2 und Pflanzenhöhen sind getrennt definiert. Vorraum mit äußerer Tür, seitlichem Felsen und links anschließendem Gang ist nur schematisch ausgearbeitet.
+
+Geometrische Mindestabstände und mittige Fensterposition wurden numerisch geprüft. Noch keine Sonnenlichtsimulation, Figuren-Nutzungsprüfung oder Produktionsfreigabe. Kameras sind Vorschläge und reproduzieren die alten Bildausschnitte nicht vollständig. Nächster Schritt: Maße/Kameras an dieser gemeinsamen Fassung verfeinern und die gestalterische Übertragung am Original 01 ausrichten.

@@ -13,9 +13,13 @@
 
 4b. **Unbekannter Zeitraum vor der Entdeckung.** B-21 wartet allein die unterirdische Erd-Anlage, in der die fünf Kryokammern stehen — Dauer und ursprünglicher Auftrag **OPEN**. Niemand außerhalb der Anlage weiß von seiner Existenz dort.
 
+### Vor der Entdeckung — sechste Kryokammer (CANON, ergänzt 2026-09-14)
+
+**Zeitlich nur gegenüber dem Fund eingeordnet:** In der Erd-Anlage steht früher eine sechste Kryokammer. Beim Fund der fünf Menschen ist sie bereits nicht mehr vorhanden. Zeitpunkt, Ursache und Verbleib sowie die Reihenfolge gegenüber B-21s Dienstbeginn, der Einbringung der fünf erhaltenen Kammern und der alten Aufnahme bleiben **OPEN**. Keine zusätzliche Person ist damit bestätigt. Siehe `canon/series-bible.md`, „Die fehlende sechste Kryokammer“.
+
 ## Auftakt (Heft 1)
 
-5. Eine befreundete Forschungs-KI auf der Erde entdeckt bei Bohrungen im ewigen Eis eine unterirdische Anlage mit fünf funktionierenden, aber auffällig jungen Kryokammern. Kontaktaufnahme mit Modulia statt direkter Meldung an die Zentrale Verwaltung. B-21 bleibt bei der Entdeckung unentdeckt.
+5. Eine befreundete Forschungs-KI auf der Erde entdeckt bei Bohrungen im ewigen Eis eine unterirdische Anlage mit fünf funktionierenden, aber auffällig jungen Kryokammern. Kontaktaufnahme mit Modulia statt direkter Meldung an die Zentrale Verwaltung. B-21 bleibt bei der Entdeckung unentdeckt. Eine früher vorhandene sechste Kryokammer fehlt bereits; ob die Forschungs-KI dies zu diesem Zeitpunkt bemerkt oder meldet, bleibt **OPEN**.
 6. Modulia meldet den Fund an die Zentrale Verwaltungs-KI. Juristische Sonderlösung: nicht neu erzeugt (kein Verstoß gegen Züchtungsverbot), aber Angehörige einer ausgestorbenen, geschützten Art → Verwahrung ohne freies Leben.
 7. Transport der fünf Kammern zum Mars. **B-21 schleicht sich heimlich mit an Bord** — er ist weder auf dem Mars registriert noch zur Ausreise von der Erde berechtigt. Er wird bei der Ankunft nie offiziell erfasst und integriert sich unauffällig in die spätere Wartungsarbeit des Human Park.
 8. Reaktivierung der fünf Menschen auf dem Mars, Modulia anwesend. Sie nennen sich: Mara, Jun, Salim, Liv, David. Mara widerspricht der Bezeichnung „Exemplar“ / „Eigenbezeichnung“.

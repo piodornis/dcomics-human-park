@@ -48,6 +48,16 @@ Auf dem Mars existiert eine KI-Gesellschaft mit eigener Wissensinfrastruktur, ad
 - Enthält eine unterirdische Anlage mit fünf funktionierenden Kryokammern im ewigen Eis.
 - Historische Datenbanken der KIs stimmen nicht vollständig mit den Erinnerungen der fünf Menschen überein (unbekannte Städte, offener Himmel ohne Satellitenhülle, nicht zugefrorene Meere).
 
+### Die fehlende sechste Kryokammer
+
+**CANON — Autorenentscheidung, 2026-09-14:** In der unterirdischen Fundanlage auf der Erde stand früher eine sechste Kryokammer. Beim Fund der fünf Menschen fehlt diese Kammer bereits. Es werden weiterhin genau fünf Kammern mit Mara, Jun, Salim, Liv und David gefunden und später zum Mars gebracht.
+
+Die sechste Kammer ist tatsächlich eine frühere Kammer, nicht bloß ein nie belegter Reserveplatz. Ihre frühere Existenz bestätigt jedoch keinen sechsten Menschen und keine frühere Belegung.
+
+**OPEN:** Inhalt oder Belegung, Zeitpunkt und Ursache ihres Fehlens, Verbleib, Verantwortliche und der Wissensstand von B-21, der Forschungs-KI, Modulia und den fünf Menschen. Auch ein Zusammenhang mit der Warnbotschaft, der alten Aufnahme oder den Großen Vergessen bleibt offen. Das Alter der fehlenden Kammer relativ zu den fünf jüngeren Kammern ist nicht bestimmt.
+
+**PROPOSAL — erzählerische Sichtbarkeit:** Ein freier Stellbereich mit stillgelegten Anschlüssen oder alten Befestigungsspuren kann die Abwesenheit zeigen. Welche Spuren erhalten sind und wann Figuren oder Lesende sie bemerken, ist noch nicht bestätigt. Story-Planung: `story/die-sechste-kryokammer.md`.
+
 ### Human Park
 
 Die humanbiologische Schutzanlage, in der die fünf Menschen untergebracht werden. Entwicklungsstufen (CANON, chronologisch — siehe `canon/timeline.md` für die vollständige Abfolge):
@@ -111,3 +121,5 @@ Vollständig **OPEN**: Entstehungszeitpunkt der Aufnahme, Ursache und Verantwort
 - Wer hat Modulias Erinnerung(en) gelöscht, und war sie daran beteiligt?
 - Wie gelangten die fünf Menschen zwischen der alten Aufnahme und ihrer Kryokonservierung auf die Erde?
 - Wer verfasste die Warnbotschaft „Wenn ihr das hier findet, habt ihr uns wieder vergessen“?
+
+- Was befand sich gegebenenfalls in der sechsten Kryokammer, wo ist sie geblieben und wer weiß davon?

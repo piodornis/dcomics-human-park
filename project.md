@@ -44,6 +44,10 @@ Define when drafted material becomes canon for this project. Example: only after
 - Style: `style/`
 - Archive: `archive/`
 
+## Work overview
+
+See [work-status.md](work-status.md) for next actions, pending decisions, handoffs and links to unresolved conflicts. It is a project-specific coordination index, not a source of narrative canon or visual approval. Consult the linked domain records before resuming work; update the relevant entries after meaningful progress, decisions or handoffs.
+
 ## Project-specific conventions
 
 Document deviations from the framework here rather than forcing generic Skills to guess.

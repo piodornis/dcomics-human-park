@@ -17,6 +17,7 @@ Kein projektweit SELECTED, APPROVED oder LOCKED Style Pack. Die vorläufige Arbe
 - Erde: `design/environments/earth/references/`
 - Mars-Design und Bildstatus: `design/environments/mars/design.md`
 - Modulias Arbeitsplatz und Bildstatus: `design/environments/modulia-workspace/design.md`
+- Biologisches Sicherheitsraumschiff: `design/environments/biological-cargo-spacecraft/design.md`
 - Narrative Schreibregeln: `style/`; der leere Altbestand visual-style.md wird nicht automatisch migriert.
 
 ## Status und Zuständigkeit
@@ -28,3 +29,5 @@ Das Projekt-Repo bleibt Source of Truth; die externen Frameworks liefern Arbeits
 Funktionale Terraforming-Terrassen, ungewöhnliche Vegetation und Architektur für unterschiedliche KI-Körper auf dem Mars. Die Erde-Bilder dienen ausschließlich als Umgebungs- und Stilreferenzen; ihre Roboter und Geräte werden ignoriert.
 
 Modulias Arbeitsplatz: aktuelle Vierer-Serie SELECTED und lokal abgelegt. Vor wiederkehrender Produktion exakte Raumgeometrie und Möbelkontinuität weiter abgleichen. Ganganschluss links beim Hinausgehen als PROPOSAL für spätere Ausarbeitung festgehalten.
+
+Raumschiff: modularer gelber Raumfrachter mit ankoppelbarer Steuereinheit, hintereinander gereihten Containern und separatem Antrieb. Gesamtansicht mit gelben Türen, Basiscontainer mit Haltevorrichtungen und drei alternative Beladungen (Boxen, Maschinenteile, Kulturen) sind SELECTED. Einbau der fünf Kryokammern bleibt EXPLORATION. Frühere Entwürfe bleiben erhalten. Bildbestand, Auswahlhistorie und offene Prüfungen: `design/environments/biological-cargo-spacecraft/design.md`.
