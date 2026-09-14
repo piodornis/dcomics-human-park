@@ -14,7 +14,9 @@ Kein projektweit SELECTED, APPROVED oder LOCKED Style Pack. Die vorläufige Arbe
 
 - Charakterreferenzen: `design/characters/` (bestehende Ablage erhalten)
 - Ensemble und Stilreferenzen: `design/references/`
-- Erde: `design/environments/earth/references/`
+- Erde und Referenzstatus: `design/environments/earth/design.md`
+- Fundanlage: `design/environments/earth-discovery-facility/design.md`
+- Earth-Stilleitfaden: `design/styles/human-park-earth/style.md` (G-01 bis G-03 APPROVED für Earth; kein globaler Style Pack)
 - Mars-Design und Bildstatus: `design/environments/mars/design.md`
 - Modulias Arbeitsplatz und Bildstatus: `design/environments/modulia-workspace/design.md`
 - Biologisches Sicherheitsraumschiff: `design/environments/biological-cargo-spacecraft/design.md`
@@ -31,3 +33,5 @@ Funktionale Terraforming-Terrassen, ungewöhnliche Vegetation und Architektur f�
 Modulias Arbeitsplatz: aktuelle Vierer-Serie SELECTED und lokal abgelegt. Vor wiederkehrender Produktion exakte Raumgeometrie und Möbelkontinuität weiter abgleichen. Ganganschluss links beim Hinausgehen als PROPOSAL für spätere Ausarbeitung festgehalten.
 
 Raumschiff: modularer gelber Raumfrachter mit ankoppelbarer Steuereinheit, hintereinander gereihten Containern und separatem Antrieb. Gesamtansicht mit gelben Türen, Basiscontainer mit Haltevorrichtungen und drei alternative Beladungen (Boxen, Maschinenteile, Kulturen) sind SELECTED. Einbau der fünf Kryokammern bleibt EXPLORATION. Frühere Entwürfe bleiben erhalten. Bildbestand, Auswahlhistorie und offene Prüfungen: `design/environments/biological-cargo-spacecraft/design.md`.
+
+Earth/Fundanlage: Referenzserie und Promptprotokolle ins Repo übernommen. Rechenzentrum B, Energie V4, Wartung V1 und Zugang V2 sind SELECTED. Raumskizze V2 zeigt fünf Kammern und einen leeren ehemaligen sechsten Platz; EXPLORATION, Lage und Spuren PROPOSAL. Nächster Schritt ist die Abstimmung von Raumfolge und Transportmaßstab.

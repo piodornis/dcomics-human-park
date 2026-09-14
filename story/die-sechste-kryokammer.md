@@ -54,7 +54,7 @@ Ein späterer Hinweis sollte eine einzelne Frage enger fassen, etwa einen Teil d
 - **Heft 1:** Originaltext bleibt unverändert. Die Ergänzung ist in Synopsis und Continuity Notes als später etablierte Hintergrundtatsache dokumentiert.
 - **Heft 3:** bleibt insgesamt PROPOSAL. Der neue Archivfund ist eine optionale Konkretisierung, keine automatisch gewählte Szene oder bestätigte Verbindung.
 - **Character Developer:** erst bei Entscheidung über Vorwissen oder Beteiligung die Figurenakten verändern. B-73s Unwissen über B-21s Herkunft bleibt bestehen.
-- **Environment Designer:** fünf belegte Kammerpositionen plus ein freier ehemaliger Platz vorschlagen; nicht eine sechste intakte Kammer hinzufügen. Die bestehende Raumskizze ist noch ohne expliziten Leerplatz und benötigt eine separate derivative Überarbeitung. Spuren und Position bleiben visuelle Vorschläge.
+- **Environment Designer:** fünf belegte Kammerpositionen plus ein freier ehemaliger Platz vorschlagen; nicht eine sechste intakte Kammer hinzufügen. [Raumskizze V2](../design/environments/earth-discovery-facility/references/plan/fundanlage-raumskizze-v2.png) ergänzt den Leerplatz als separate Überarbeitung; V1 bleibt erhalten. Spuren und Position bleiben visuelle Vorschläge, die neue Bildfassung EXPLORATION. Details im [Designrecord](../design/environments/earth-discovery-facility/design.md).
 - **Issue Writer / Storyboard Director:** spätere Inszenierung mit klarer Trennung zwischen sichtbarem Hinweis, Figurenwissen und erwiesenem Sachverhalt. Keine Namen oder Personenkennung für die fehlende Kammer erfinden.
 
 ## Prüfung

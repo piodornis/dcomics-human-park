@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-14",
+  "note": "PNGs byte-identical; historical Markdown links made portable and annotated. Current records take precedence over historical status wording. Derived style v0.3 and concept v2 are documented in their records.",
+  "files": [
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-style-exploration/earth-b-detailreich.png",
+      "target": "design/environments/earth/references/style-exploration/earth-b-detailreich.png",
+      "source_sha256": "182ff32a1d33fa5356446ea4eb83580a8b7bf400db4a3e1fbbfa4110358dda22",
+      "imported_sha256": "182ff32a1d33fa5356446ea4eb83580a8b7bf400db4a3e1fbbfa4110358dda22"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-style-exploration/earth-a-reduziert.png",
+      "target": "design/environments/earth/references/style-exploration/earth-a-reduziert.png",
+      "source_sha256": "487ac3f6a144cc0fb5a8952360cfe4fe87ee6e983a87470f8831c228af8bc28d",
+      "imported_sha256": "487ac3f6a144cc0fb5a8952360cfe4fe87ee6e983a87470f8831c228af8bc28d"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-style-exploration/README.md",
+      "target": "design/environments/earth/references/style-exploration/README.md",
+      "source_sha256": "d1c0cf5c4d24a1021c50561f85dacf26be39ddd0fa33c17dd6899edfa1aa30b2",
+      "imported_sha256": "b0ff825ba4a37927d69a12f1363e41bc0c0cfd753bda1eda5f53c2f8f74f8d13"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-energy-exploration/earth-energie-im-eis-v2-prompt.md",
+      "target": "design/environments/earth/references/energy-exploration/earth-energie-im-eis-v2-prompt.md",
+      "source_sha256": "3e01038935d37a384e957cfd64b1eaf41649e375e8bfaca49769f2b359b94d47",
+      "imported_sha256": "38fe7a8ddbdc60ff72bf2d46268adb912e75287a1696eeaf6f714ea4101339df"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-energy-exploration/earth-energie-im-eis-v4.png",
+      "target": "design/environments/earth/references/energy-exploration/earth-energie-im-eis-v4.png",
+      "source_sha256": "56478a034c05c031d38c48f66bf0d2884ae55514177e307f52c96aab95f0611d",
+      "imported_sha256": "56478a034c05c031d38c48f66bf0d2884ae55514177e307f52c96aab95f0611d"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-energy-exploration/earth-energie-im-eis-v3.png",
+      "target": "design/environments/earth/references/energy-exploration/earth-energie-im-eis-v3.png",
+      "source_sha256": "2d28a2cbe06694c719f1b8bfcba961c22cd67a448d741fc0e5d862c2cfa577c3",
+      "imported_sha256": "2d28a2cbe06694c719f1b8bfcba961c22cd67a448d741fc0e5d862c2cfa577c3"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-energy-exploration/earth-energie-im-eis-v4-prompt.md",
+      "target": "design/environments/earth/references/energy-exploration/earth-energie-im-eis-v4-prompt.md",
+      "source_sha256": "1414d7575e77c47464af30b798fbbefa54ce8d9671edee53c48749d07dc7e5bb",
+      "imported_sha256": "01541f296d8419a256d095bd2865904a94a1596e42ace3c3c98c6ecb1873e61a"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-energy-exploration/earth-energie-im-eis-v2.png",
+      "target": "design/environments/earth/references/energy-exploration/earth-energie-im-eis-v2.png",
+      "source_sha256": "6c5eb58daf399c768f2df197a67e55a3be54c4c7a1bea0b44b603be8a156c3e0",
+      "imported_sha256": "6c5eb58daf399c768f2df197a67e55a3be54c4c7a1bea0b44b603be8a156c3e0"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-energy-exploration/earth-energie-im-eis-v1.png",
+      "target": "design/environments/earth/references/energy-exploration/earth-energie-im-eis-v1.png",
+      "source_sha256": "ee884196d609de8d0389cc642d4439b59b153abe2073326b40143b661f8b8a00",
+      "imported_sha256": "ee884196d609de8d0389cc642d4439b59b153abe2073326b40143b661f8b8a00"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-energy-exploration/earth-energie-im-eis-v3-prompt.md",
+      "target": "design/environments/earth/references/energy-exploration/earth-energie-im-eis-v3-prompt.md",
+      "source_sha256": "245f4bbd4d6fa03cd7e777e594bdb98fd024daae479e87525587a4bd999700ac",
+      "imported_sha256": "1a1edcaa5a67ffee6ba110db1d74d31f3fa09f14e1471c5b8604a47611d36789"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-energy-exploration/README.md",
+      "target": "design/environments/earth/references/energy-exploration/README.md",
+      "source_sha256": "6fa7e8064b804846463772d4ef58f32bdcc1d94b4a942563290fd3443e52dcd1",
+      "imported_sha256": "f338fee9c50aa8448e73ae9c6fbc61df1106e04c0e3f5bc22839e8511f43ee63"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-maintenance-exploration/README.md",
+      "target": "design/environments/earth/references/maintenance-exploration/README.md",
+      "source_sha256": "096715224f488272cea9bee0aed5ee2bab771cfedf2435aad79ffcd81c7fe414",
+      "imported_sha256": "d4333dbbc20920fa34116aae1736a8517618b80f1b97e1a39d93a2252005fe52"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-maintenance-exploration/earth-wartungsbereich-v1.png",
+      "target": "design/environments/earth/references/maintenance-exploration/earth-wartungsbereich-v1.png",
+      "source_sha256": "55dce5372115484f65aa53960a0441d8bf0425cfac94e847a2b56c82ad0e3df8",
+      "imported_sha256": "55dce5372115484f65aa53960a0441d8bf0425cfac94e847a2b56c82ad0e3df8"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-access-exploration/earth-fundanlage-zugang-v2.png",
+      "target": "design/environments/earth-discovery-facility/references/access/earth-fundanlage-zugang-v2.png",
+      "source_sha256": "ac7875d339a323693ac2a63302e06b4ef0db4fa269dbe05b298fe11714566193",
+      "imported_sha256": "ac7875d339a323693ac2a63302e06b4ef0db4fa269dbe05b298fe11714566193"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-access-exploration/earth-fundanlage-zugang-v1.png",
+      "target": "design/environments/earth-discovery-facility/references/access/earth-fundanlage-zugang-v1.png",
+      "source_sha256": "c550c88b955e267366f7812b9488590ac51167717562d4472cf7f09a10557125",
+      "imported_sha256": "c550c88b955e267366f7812b9488590ac51167717562d4472cf7f09a10557125"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-access-exploration/earth-fundanlage-zugang-v2-prompt.md",
+      "target": "design/environments/earth-discovery-facility/references/access/earth-fundanlage-zugang-v2-prompt.md",
+      "source_sha256": "f0c93e50b631ffac6e5a1d512eed595227cf6ec11058724a68588ad17ac43369",
+      "imported_sha256": "24fa2faaf14f11e77172b57e37d2d62b09d3a99d10af53155d01a729f3cc0e33"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-access-exploration/README.md",
+      "target": "design/environments/earth-discovery-facility/references/access/README.md",
+      "source_sha256": "c0ab9ee7c15f11b5a77a5c998a783783b3cea91e00c530bcab4b8530e7966c38",
+      "imported_sha256": "58e28e85a901ba7d4ed387fda985073fe69a29fb0559a988ccbb49e5217f5565"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-facility-plan/fundanlage-raumskizze-v2.png",
+      "target": "design/environments/earth-discovery-facility/references/plan/fundanlage-raumskizze-v2.png",
+      "source_sha256": "c2d901702905a4b9fc7c8694d209117326c17634dfc1b8a34e3ab3d23c929479",
+      "imported_sha256": "c2d901702905a4b9fc7c8694d209117326c17634dfc1b8a34e3ab3d23c929479"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-facility-plan/fundanlage-raumskizze-v1.png",
+      "target": "design/environments/earth-discovery-facility/references/plan/fundanlage-raumskizze-v1.png",
+      "source_sha256": "7e86464dd0431466b397b3955aa78b0a4c4ca352e231eee5ab338ec97b22811c",
+      "imported_sha256": "7e86464dd0431466b397b3955aa78b0a4c4ca352e231eee5ab338ec97b22811c"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-facility-plan/prompts-v2.md",
+      "target": "design/environments/earth-discovery-facility/references/plan/prompts-v2.md",
+      "source_sha256": "2feaf9d05022c6d2436b9f8fa243134bc59c6f81dad8216a34f3fd21b6474f94",
+      "imported_sha256": "35910be481e37645af1f70f4e6f4bada745bba0ba74edb78f07160ddfa75aa40"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-facility-plan/raumkonzept-v1.md",
+      "target": "design/environments/earth-discovery-facility/references/plan/raumkonzept-v1.md",
+      "source_sha256": "08d9020191ae0da95a30da6b01d2a7dcc42feae151614d9715c9850b7779e70b",
+      "imported_sha256": "41e8742a4ac5a41ed5e80b2e78d7d4c2be81dc267c615925c5ff67d03e5557ca"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-facility-plan/prompts-v1.md",
+      "target": "design/environments/earth-discovery-facility/references/plan/prompts-v1.md",
+      "source_sha256": "a9239b42639d9dea3da8ea9e6903f63fb7c8fbea4142b3480157d362ca0c786d",
+      "imported_sha256": "21350c321a8cfd4f23d5dbc8d741620fb50f666b2b5e0ec414c61a86c5989ffc"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-style-guide/earth-stilleitfaden-v0.1.md",
+      "target": "design/styles/human-park-earth/history/earth-stilleitfaden-v0.1.md",
+      "source_sha256": "97dcc40c1cf85fdf3e282376cb6f188e204d0a1fe4f0ceff9f804d58de324d7b",
+      "imported_sha256": "758a03028b03ab9b8eb582161ee9df56dbd68cfff9dffd26508ff7042006c6a8"
+    },
+    {
+      "source": "Codex task 2026-09-14 / outputs/earth-style-guide/earth-stilleitfaden-v0.2.md",
+      "target": "design/styles/human-park-earth/history/earth-stilleitfaden-v0.2.md",
+      "source_sha256": "84e9cefe7d68dc66932e51ba19f78ffefd4755ab48a67f1e8c8dde1437715e6e",
+      "imported_sha256": "f9636724150d5aa0d328c08a563c1c30ae0d8a89ba5c3706a2f3a3f477586972"
+    }
+  ]
+}
