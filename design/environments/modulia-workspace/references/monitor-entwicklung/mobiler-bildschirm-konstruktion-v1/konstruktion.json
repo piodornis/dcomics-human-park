@@ -1,0 +1,29 @@
+{
+  "status": "EXPLORATION / PROPOSAL",
+  "units": "schematic",
+  "body_width": 64,
+  "shoulder_centers": [
+    [
+      -84,
+      196
+    ],
+    [
+      84,
+      196
+    ]
+  ],
+  "display_center": [
+    0,
+    210
+  ],
+  "portrait": [
+    180,
+    320
+  ],
+  "landscape": [
+    320,
+    180
+  ],
+  "arm_pose": "identical in all views",
+  "feet": "forward toward display front"
+}
