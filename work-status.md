@@ -1,10 +1,13 @@
 # Human Park — Arbeitsstand
 
-Stand: 2026-09-14. Zentrale Arbeitsübersicht; kein Ersatz für Kanon, Designakten oder Konfliktberichte.
+Stand: 2026-09-16 (Produktionsplanung ergänzt; übrige Fachstände siehe Quellen). Zentrale Arbeitsübersicht; kein Ersatz für Kanon, Designakten oder Konfliktberichte.
 
 ## Einstieg und nächster Schritt
 
-Earth-Referenzen und Fundanlagen-Entwürfe sind im Repo übernommen. Raumskizze V2 ergänzt einen ehemaligen sechsten Stellplatz bei fünf vorhandenen Kammern; EXPLORATION / PROPOSAL. Nächster konkreter Schritt: **W-03 — Raumfolge, Leerplatz und Transportmaßstab abstimmen.** Commit und Push dieser Übernahme sind noch ausstehend.
+Earth-Referenzen und Fundanlagen-Entwürfe sind im Repo übernommen. Raumskizze V2 ergänzt einen ehemaligen sechsten Stellplatz bei fünf vorhandenen Kammern; EXPLORATION / PROPOSAL. Nächster konkreter Schritt: **W-03 — Raumfolge, Leerplatz und Transportmaßstab abstimmen.**
+
+
+Aktueller zusätzlicher Fokus: **W-09 — Storyboardentwurf Ausgabe 1 prüfen.** Der [erste Entwurf](production/issues/issue-001/production-plan.md) reserviert vorläufig 24 Gesamtseiten: 16 Story, 2 gewünschte Innenanzeigen, 2 Redaktion und 4 Umschlagseiten. Zusätzlich ist Werbung auf drei Umschlagseiten vorgeschlagen. Alle Layoutentscheidungen bleiben DRAFT/PROPOSAL; W-03 und weitere Designarbeiten behalten ihren eigenen Stand.
 
 Vor Wiederaufnahme [project.md](project.md), [design-project.md](design-project.md) und die Quellen des gewählten Eintrags lesen. Diese Übersicht beschreibt den geprüften Stand, keine laufenden Hintergrundaufträge.
 
@@ -21,6 +24,10 @@ W-01 und W-02 sind abgeschlossen; W-03 und W-04 führen Earth weiter. Weitere St
 | W-07 | Modulare Frachter- und Beladungsentwürfe übernommen | Gesamtansicht mit gelben Türen, Container mit Haltevorrichtungen und drei alternative Beladungen SELECTED. Kryoeinbau EXPLORATION: Maßstab mit Earth-Kammerhülle, Entnahmeweg, Sicherung oberer Boxen und redundante Versorgung prüfen; B-21s Zugang/Versteck offen. | Environment Designer / Story | [Raumschiff-Designrecord](design/environments/biological-cargo-spacecraft/design.md), [Bildbestand](design/environments/biological-cargo-spacecraft/references/README.md). Tatsächliche Zuglänge OPEN. |
 | W-08 | Offen, eigener Strang | Mars: Zugangshub aus Gegenrichtung, Wasserzellen im Detail und Pflanzenmaßstab neben Figuren testen. | Environment Designer / Style Director | [Mars-Designrecord](design/environments/mars/design.md). Kein finaler Lageplan, Bildstatus EXPLORATION. |
 
+| W-09 | Entwurf erstellt; zur Abstimmung | Storyboard Revision 2 mit 16 Seiten / 73 Panels und ausführlichen Seitenbeschreibungen erstellt. S003, S009 und S013/S014 als Layout-/Letteringprobe prüfen; Textstrategie, Schlusswirkung und offene Cover-/Anzeigeninhalte abstimmen. | Autor / Production / Story | [Storyboard](issues/issue-001/storyboard.md), [Plan Ausgabe 1](production/issues/issue-001/production-plan.md), [Quellenregister](production/issues/issue-001/source-register.md). Keine Plan- oder Bildfreigabe. |
+
+| W-10 | Bildungsauftrag vermerkt; Umsetzung offen | Modellkollaps-Eingangstext bewertet und überarbeiteter Artikelentwurf gespeichert. Fachfreigabe, drei Glossareinträge und Heft-Hinweis weiter ausarbeiten; Zieladresse und Plattform wählen. | Autor / Fachredaktion | [Strategie](knowledge/README.md), [Modellkollaps-Prüfung](knowledge/reviews/modellkollaps-2026-09-16.md), [Redaktionsentwurf](editorial/issue-001/wissen-hinter-der-geschichte.md). I020 reserviert; noch kein Web-/App-Angebot veröffentlicht. |
+
 ## Entscheidungen und bewusst offene Rätsel
 
 Offene Fragen sind nicht automatisch Fehler oder Aufgaben, die sofort gelöst werden müssen.
@@ -30,7 +37,7 @@ Offene Fragen sind nicht automatisch Fehler oder Aufgaben, die sofort gelöst we
 | D-01 | Zugangsgeschichte, Tiefe, ursprünglicher Eingang und Verbindung zum Wartungsbereich | Vor konkreter Ortsausarbeitung entscheiden oder sichtbar als PROPOSAL belassen. | [Raumkonzept](<design/environments/earth-discovery-facility/references/plan/raumkonzept-v2.md>), [Story-Handoff](story/die-sechste-kryokammer.md) |
 | D-02 | Inhalt, Verbleib und Vorgeschichte der sechsten Kammer; Wissen der Figuren | Bewusst OPEN halten. Fehlende Kammer bestätigt keine fehlende Person. | [Serienfaden](story/die-sechste-kryokammer.md), [Kanon](canon/series-bible.md) |
 | D-03 | B-73s Entscheidung und weiterer Verlauf der Protokolllücke | Im Zuge der Heftplanung behandeln, nicht aus einem Design ableiten. | [Heft 3](issues/issue-003/synopsis.md) |
-| D-04 | Große Vergessen, alte Aufnahme und Ursache der Kryokonservierung | Bewusst offene Serienmysterien; keine automatische Auflösung. | [Series Bible](canon/series-bible.md), [Timeline](canon/timeline.md) |
+| D-04 | Große Vergessen, alte Aufnahme und Ursache der Kryokonservierung | Mögliche Ursache als PROPOSAL vorgemerkt: selbst veranlasstes Vergessen als Schutzentscheidung. Ursache bleibt OPEN; vor konkreten Hinweisen Logik und Chronologie prüfen. | [Vorschlag](story/vergessen-als-schutzentscheidung.md), [Series Bible](canon/series-bible.md), [Timeline](canon/timeline.md) |
 
 ## Widersprüche und Designbefunde
 

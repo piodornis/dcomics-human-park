@@ -97,6 +97,8 @@ Damit ist belegt:
 
 Vollständig **OPEN**: Entstehungszeitpunkt der Aufnahme, Ursache und Verantwortlichkeit für Modulias Erinnerungsverlust(e), Verbindung zu den „Großen Vergessen“, Vorgeschichte der Kryokonservierung.
 
+**PROPOSAL — mögliche Ursache, 2026-09-16:** Modulia könnte ihre Erinnerungen als eigene Schutzentscheidung haben löschen lassen, um die fünf Menschen vor einer erneuten historischen Bereinigung zu bewahren. Der Autor hat die Idee als mögliche Erklärung vormerken lassen, nicht als CANON festgelegt. Ausarbeitung, Grenzen und offene Logikfragen: [Vergessen als Schutzentscheidung](../story/vergessen-als-schutzentscheidung.md). Die oben aufgeführten Ursachenfragen bleiben OPEN.
+
 ## Schlüsselinstitutionen und -systeme
 
 | Institution/System | Funktion |

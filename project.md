@@ -63,3 +63,11 @@ Reusable Skills, shared schemas, and the project template are maintained in the 
 ```
 
 Compatibility target: `comic-project-standard-v1`.
+
+## Production planning
+
+Ausgabe 1 erprobt `comic-production-standard-v0.1-draft`. Einstieg: [production-project.md](production-project.md). Physische Seiten, Panelbudgets und Werbereservierungen liegen unter `production/issues/`; Originalskript und Kanon bleiben Story-owned. Der erste Plan vom 2026-09-16 ist DRAFT; Format, Umfang und Adaption sind noch nicht angenommen.
+
+## Bildungsanspruch und redaktionelle Vertiefung
+
+Autorenwunsch vom 2026-09-16: Human Park soll aktuelle Kenntnisse über LLMs, Agentic Development, KI allgemein, Modellkollaps und weitere Theorien vermitteln. Im redaktionellen Teil verweist das Heft auf vertiefende Informationen im Web oder in einer App. Reale Fachinformationen, Forschungshypothesen und die Fiktion werden klar getrennt. [Strategieentwurf](knowledge/README.md), [Hinweis für Heft 1](editorial/issue-001/wissen-hinter-der-geschichte.md). Das bestehende Kanonglossar bleibt der fiktiven Welt vorbehalten; Plattform und öffentliche Adresse sind noch offen.
