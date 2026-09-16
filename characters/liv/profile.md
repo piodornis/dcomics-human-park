@@ -1,5 +1,7 @@
 # Liv
 
+> **Design und Referenzen:** [Designakte](../../design/characters/liv/design.md) · [Charakterübersicht](../README.md). Ablage harmonisiert am 2026-09-16; narrative Aussagen und bestehende Status unverändert. Visuelle Entwürfe ergänzen offene Erscheinungsbilder, ohne sie automatisch zum Kanon zu machen.
+
 ## Status
 
 - **Character ID:** LIV

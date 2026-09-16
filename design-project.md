@@ -12,7 +12,8 @@ Kein projektweit SELECTED, APPROVED oder LOCKED Style Pack. Die vorläufige Arbe
 
 ## Pfade
 
-- Charakterreferenzen: `design/characters/` (bestehende Ablage erhalten)
+- Charakterdesign: [Übersicht](design/characters/README.md); je Figur `design/characters/<id>/design.md` und `references/`.
+- Narrative Charakterprofile: [Übersicht](characters/README.md); `characters/<id>/profile.md`. IDs stimmen in beiden Bereichen überein.
 - Ensemble und Stilreferenzen: `design/references/`
 - Erde und Referenzstatus: `design/environments/earth/design.md`
 - Fundanlage: `design/environments/earth-discovery-facility/design.md`
@@ -35,3 +36,11 @@ Modulias Arbeitsplatz: aktuelle Vierer-Serie SELECTED und lokal abgelegt. Vor wi
 Raumschiff: modularer gelber Raumfrachter mit ankoppelbarer Steuereinheit, hintereinander gereihten Containern und separatem Antrieb. Gesamtansicht mit gelben Türen, Basiscontainer mit Haltevorrichtungen und drei alternative Beladungen (Boxen, Maschinenteile, Kulturen) sind SELECTED. Einbau der fünf Kryokammern bleibt EXPLORATION. Frühere Entwürfe bleiben erhalten. Bildbestand, Auswahlhistorie und offene Prüfungen: `design/environments/biological-cargo-spacecraft/design.md`.
 
 Earth/Fundanlage: Referenzserie und Promptprotokolle ins Repo übernommen. Rechenzentrum B, Energie V4, Wartung V1 und Zugang V2 sind SELECTED. Raumskizze V2 zeigt fünf Kammern und einen leeren ehemaligen sechsten Platz; EXPLORATION, Lage und Spuren PROPOSAL. Nächster Schritt ist die Abstimmung von Raumfolge und Transportmaßstab.
+
+## Norman — Ordnungs-KI
+
+[Charakterprofil](characters/norman/profile.md) und [Designakte](design/characters/norman/design.md) mit importierten Entwürfen und Prompts. Autoritäre Schwarz-Weiß-Studie als bevorzugte Arbeitsrichtung, weiterhin EXPLORATION. Gelbe/leuchtende Rangabzeichen als anschließender Autorenwunsch noch nicht im Bild umgesetzt. Konkreter Rang, Dienstkennung und Abzeichensystem bleiben Vorschläge.
+
+## KI-Körperformen — Bau, Wetter, Pflege, Archiv und Unterhaltung
+
+[Designakte mit V1 und V2](design/characters/ki-koerperformen/design.md): sechs mobile Körperentwürfe und körperlose Systeme, einschließlich Prompts und Herkunft. V2 ist die vom Autor positiv bewertete Arbeitsrichtung, weiterhin EXPLORATION. Körperzuordnungen sind Designvorschläge; keine universelle Augen- oder Personenstatusregel.

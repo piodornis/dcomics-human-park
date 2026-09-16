@@ -59,7 +59,7 @@ Die aktuelle Auswahl A v4 / B v6 / C v5 / D v10 liegt unter `references/` und ha
 
 Historische Generierungsprotokolle können frühere PROPOSAL-/EXPLORATION- oder SELECTED-Zustände nennen. Maßgeblich sind die aktuelle Auswahl und dieser Designrecord. Narrative Zustände bleiben davon unabhängig.
 
-Externe Referenzen: `../../characters/modulia-01.png` (Figurenentwurf) und `../mars/references/mars-03.png` (Mars-Bildsprache). Deren Status wird durch diese Büroentscheidung nicht geändert.
+Externe Referenzen: `../../characters/modulia/references/modulia-01.png` (Figurenentwurf) und `../mars/references/mars-03.png` (Mars-Bildsprache). Deren Status wird durch diese Büroentscheidung nicht geändert.
 
 ## Prüfungen vor APPROVED
 

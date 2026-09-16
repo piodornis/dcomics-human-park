@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-16",
+  "operation": "relocate existing character images without changing bytes",
+  "moves": [
+    {
+      "old": "design/characters/modulia-01.png",
+      "new": "design/characters/modulia/references/modulia-01.png",
+      "sha256": "50930ca3aa32ac718e6dfa4c1e9ca4277127885abfb88badc5f8cdff238946a3"
+    },
+    {
+      "old": "design/characters/b21-01.png",
+      "new": "design/characters/b-21/references/b21-01.png",
+      "sha256": "103883dd38d04a24de2993c85c3e665e62ebf8920a630b4c1e53ea7444b70034"
+    },
+    {
+      "old": "design/characters/b21-02.png",
+      "new": "design/characters/b-21/references/b21-02.png",
+      "sha256": "6a36ce9094c53a9e1a98d26cfe528e2d17f696d718b12157837e084e89ffbcb4"
+    },
+    {
+      "old": "design/characters/b73-01.png",
+      "new": "design/characters/b-73/references/b73-01.png",
+      "sha256": "22881a29b7d5e1c1fa8e20c7296413a3aad06a32af6f23beca97f5a7c28c3f32"
+    },
+    {
+      "old": "design/characters/b73-02.png",
+      "new": "design/characters/b-73/references/b73-02.png",
+      "sha256": "54822b0e727490eb0669a01385d9d969f6d32d9e4340aab9197b19ea68a6bc12"
+    },
+    {
+      "old": "design/characters/mara-01.png",
+      "new": "design/characters/mara/references/mara-01.png",
+      "sha256": "d511dfc333ce5531f01c528f30bff7ac21429726aa8a2fca04dfc0f5c4c166dd"
+    },
+    {
+      "old": "design/characters/liv-01.png",
+      "new": "design/characters/liv/references/liv-01.png",
+      "sha256": "0ad7c107468f15200ae38c2461fa6bdd037581ef6c0cb66d4032e4e5acb6a3f3"
+    },
+    {
+      "old": "design/characters/liv-02b.png",
+      "new": "design/characters/liv/references/liv-02b.png",
+      "sha256": "94253a941554450f0e8c6fad2b0e3684386831b9a82ed7ccab6386706f5bfa1d"
+    },
+    {
+      "old": "design/characters/david-01.png",
+      "new": "design/characters/david/references/david-01.png",
+      "sha256": "4cc333cf259a55d66b9eb1013a08850eee4d7d93f019aaf7e20ad562178ba456"
+    },
+    {
+      "old": "design/characters/david-02.png",
+      "new": "design/characters/david/references/david-02.png",
+      "sha256": "eaa58370a53724a43ff4e87f2e5509e29d8b0fc9b72640803f2973f453c33d6b"
+    },
+    {
+      "old": "design/characters/david-03.png",
+      "new": "design/characters/david/references/david-03.png",
+      "sha256": "d6e70c54218030d8e2558e509529dffdd4ef0439021c8df71c58b1b40bc86d5f"
+    },
+    {
+      "old": "design/characters/jun-01.png",
+      "new": "design/characters/jun/references/jun-01.png",
+      "sha256": "390c8aef541ca577feef5b8e9597fc8219f7d5be6a6bdfeb08f9c55985e7b75f"
+    }
+  ]
+}

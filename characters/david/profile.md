@@ -1,5 +1,7 @@
 # David
 
+> **Design und Referenzen:** [Designakte](../../design/characters/david/design.md) · [Charakterübersicht](../README.md). Ablage harmonisiert am 2026-09-16; narrative Aussagen und bestehende Status unverändert. Visuelle Entwürfe ergänzen offene Erscheinungsbilder, ohne sie automatisch zum Kanon zu machen.
+
 ## Status
 
 - **Character ID:** DAVID

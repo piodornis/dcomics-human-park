@@ -75,3 +75,15 @@ Die ausgewählten Bilder und drei angenommenen Regeln bestätigen keine neue Zug
 - Nur tatsächlich laufende Arbeit als laufend bezeichnen. Eine Pause ist kein technischer Blocker; „blockiert“ braucht eine benannte fehlende Voraussetzung.
 - Neue Widersprüche nach der Projektkonvention in [canon/conflicts.md](canon/conflicts.md) verweisen. Bewusst offene Rätsel in den Story-Akten belassen.
 - Ein Eintrag ist keine Ausführungsfreigabe für alle Folgeschritte und kein Erinnerungsauftrag. Den Umfang der aktuellen Autorenanweisung beachten.
+
+## Figurenentwicklung — Norman
+
+**W-11 — Profil und Designentwürfe übernommen.** [Norman](characters/norman/profile.md) ist als Ordnungs-KI mit bestätigtem Namen und rangabhängiger Modell-/Zugriffs-/Entscheidungsgrundidee dokumentiert. [Designakte](design/characters/norman/design.md): autoritäre Schwarz-Weiß-Studie als bevorzugte Arbeitsrichtung, EXPLORATION; frühes gemeinsames Blatt als Historie. Nächster Schritt: konkreten Rang und Kennung entscheiden, gelbe Rangabzeichen in einer neuen Bildversion erproben. Zwei Balken und O-17 bleiben PROPOSAL. Kein Auftritt in bestehenden Heften festgelegt.
+
+## Figurenentwicklung — allgemeine KI-Körperformen
+
+**W-12 — Entwurfsseiten V1 und V2 übernommen.** [Designakte](design/characters/ki-koerperformen/design.md) mit Bildern, Prompts, ursprünglichen Notizen und Importmanifest für Bau-, Wetter-, Pflege-, Archiv-, Unterhaltungs-KIs, KI unbekannter Aufgabe und körperlose Systeme. V2 ist bevorzugte Arbeitsrichtung, EXPLORATION. Nächster Schritt: bei Bedarf Einzelentwürfe und konsistente Ansichten ausarbeiten; Maße und konkrete Figuren bleiben offen.
+
+## Einheitliche Charakterablage
+
+**W-13 — Ablage harmonisiert.** [Charakterübersicht](characters/README.md) und [Designübersicht](design/characters/README.md) verbinden alle neun Profile mit eigenen Designakten. Zwölf bestehende Einzelbilder wurden unverändert in figurenspezifische `references/`-Ordner verschoben; [Manifest](design/characters/migration-2026-09-16.json) dokumentiert Pfade und Prüfsummen. Salim besitzt noch keine eigene Bildreferenz. Narrative Inhalte und Freigaben bleiben erhalten, aktive Verweise wurden angepasst. Nächster Schritt bei Bedarf: offene Einzelansichten und Salims ersten Entwurf ausarbeiten.

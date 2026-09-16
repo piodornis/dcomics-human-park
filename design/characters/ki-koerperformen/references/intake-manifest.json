@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-16",
+  "generator": "built-in Imagegen",
+  "files": [
+    {
+      "file": "ki-layouts-v1.png",
+      "source": "/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/imagegen/ki-layouts-v1.png",
+      "sha256": "3923f8e87d916fba9d315fcd5a1b1e33e0cc9182db88e37ce576c6ca964c5bf9"
+    },
+    {
+      "file": "ki-layouts-v1-prompt.txt",
+      "source": "/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/imagegen/ki-layouts-v1-prompt.txt",
+      "sha256": "c00dc877f6e9b3384405734f5b58b17bad4fd216f9e8c96c6204f9be7e7fa934"
+    },
+    {
+      "file": "ki-layouts-v1-notes.md",
+      "source": "/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/imagegen/ki-layouts-v1-notes.md",
+      "sha256": "c4eca201ad403407e5373f0472dd0fe27c0762e54ec9b832e4a95b1c819927f6"
+    },
+    {
+      "file": "ki-layouts-v2.png",
+      "source": "/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/imagegen/ki-layouts-v2.png",
+      "sha256": "48a08098c2cd8ca5903317015c393123b39be9e151f1e35d622e2b76fc1f0781"
+    },
+    {
+      "file": "ki-layouts-v2-prompt.txt",
+      "source": "/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/imagegen/ki-layouts-v2-prompt.txt",
+      "sha256": "7fccbef66f71b08e6ead577ff9c9cbe2ca6c73ed84e04fbe123f1f9d3b844185"
+    },
+    {
+      "file": "ki-layouts-v2-notes.md",
+      "source": "/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/imagegen/ki-layouts-v2-notes.md",
+      "sha256": "70b590323bccce026bbbe47ec2c73ce392f74b2b6ad999fb95291cd1a64884c4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-16",
+  "generator": "built-in Imagegen",
+  "files": [
+    {
+      "file": "norman-schwarz-weiss-v1.png",
+      "source": "/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/imagegen/ordnungs-ki-schwarz-weiss-v1.png",
+      "sha256": "2b152d75c29a85de391cd4815dcd65678a25b895b6e0a6324d6a1cf12d8d6d09"
+    },
+    {
+      "file": "norman-schwarz-weiss-v1-prompt.txt",
+      "source": "/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/imagegen/ordnungs-ki-schwarz-weiss-v1-prompt.txt",
+      "sha256": "f1cb2fb4bfca93c69fb4d56796f0d15098921711be0db812fbff06abc16cfc6f"
+    },
+    {
+      "file": "rollenstudien-v1.png",
+      "source": "/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/imagegen/ki-rollenstudien-v1.png",
+      "sha256": "ba4dea2e7a459fe2bc831dbe96507b1c2a061fc899828832c2d98c835502ee28"
+    },
+    {
+      "file": "rollenstudien-v1-prompt.txt",
+      "source": "/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/imagegen/ki-rollenstudien-v1-prompt.txt",
+      "sha256": "e28ce27bbadd9b871d5b9accb211e4e3447959c9eb9eb9aca57ff4ffbec0ac5e"
+    }
+  ]
+}

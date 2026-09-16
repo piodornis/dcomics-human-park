@@ -35,7 +35,7 @@ Define when drafted material becomes canon for this project. Example: only after
 ## Paths
 
 - Canon: `canon/`
-- Characters: `characters/`
+- Characters: [Charakterübersicht](characters/README.md), Profile unter `characters/<id>/profile.md`; zugehörige Designakten unter `design/characters/<id>/design.md` und Bilder unter `references/`.
 - Relationships: `relationships/`
 - Locations: `locations/`
 - Factions: `factions/`
