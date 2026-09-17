@@ -197,3 +197,7 @@ Bekannter Governance-Konflikt bleibt im [Konfliktindex](../../../canon/conflicts
 ## Bildungsauftrag — redaktionelle Ergänzung 2026-09-16
 
 I020 übernimmt den Wissenshinweis innerhalb des bestehenden Budgets. Einstieg für Heft 1: „Können KI-Systeme vergessen?“ als Themenvorschlag. [Strategie](../../../knowledge/README.md) und [Redaktionsentwurf](../../../editorial/issue-001/wissen-hinter-der-geschichte.md) führen die Inhalte. Die Seite bleibt editorial, die 73 Storypanels und zwei Innenanzeigen unverändert. Vor Druck: tatsächlich erreichbare Heftadresse, QR-Test, ausgeschriebene URL, fachliche Prüfung und Prüfung aller Platzhalter; ohne eigenes Angebot stattdessen geprüften Quellenkasten einsetzen. Kein Druckfreigabenachweis durch diese Reservierung.
+
+## Druckvorbereitung — Nachtrag 2026-09-17
+
+Die bisherige 3-mm-Geometrie bleibt eine ursprüngliche PROPOSAL-Planannahme. Die neue [print24-Spezifikation](print-spec.md) führt für den gewünschten Anbieter einen 2-mm-Beschnitt-Kandidaten (174 × 264 mm bei 170 × 260 mm Trim). Erst nach Produktdatenblatt und Formatentscheidung als effektive Konfiguration übernehmen und den Plan revidieren. Seitenbudget und Storybelegung werden durch diese Recherche nicht geändert.

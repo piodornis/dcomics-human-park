@@ -91,3 +91,7 @@ Die ausgewählten Bilder und drei angenommenen Regeln bestätigen keine neue Zug
 ## Satz- und Druckvorbereitung
 
 **W-14 — Produktionsstruktur vorbereitet (2026-09-17).** [Ablauf und Ablage](production/README.md), Satz-/Asset-/Änderungsvorlagen, Druckvorgaben und Prüfcheckliste sind angelegt. [Beispielordner](production/references/previous-comic/README.md) wartet auf das bisherige InDesign-Paket und Referenz-PDF. [Pilot S013/S014](production/issues/issue-001/pilot/README.md) ist vorgeschlagen; Auswahl und Durchführung offen. Nächster Schritt nach Lieferung: Beispiel analysieren, Satzkonventionen und InDesign-Version erfassen, dann native Vorlage und Import entwickeln. Keine INDD-/IDML-Datei, kein ausgeführtes Importskript und kein Druckexport vorhanden; bisherige Story-/Design-/Formatfreigaben bleiben unverändert.
+
+## W-14 — Eingang und Druckspezifikation aktualisiert, 2026-09-17
+
+Die zuvor fehlenden Beispieldaten sind eingegangen: INDD, IDML, 86 Assets und 12-seitiges Referenz-PDF. [Intake](production/references/previous-comic/intake.md) und technischer Nachweis angelegt. Vollständiger Link-/Fontcheck und Geometrieabgleich stehen aus. [Erste print24-Spezifikation](production/issues/issue-001/print-spec.md) samt Quellenregister erstellt; Beschnitt-Kandidat 2 mm unterscheidet sich von der bisherigen 3-mm-Annahme. Nächster Schritt: Produktkonfiguration/Datenblatt und endgültiges Format klären, dann Vorlage entwickeln. Noch kein natives Produktionsdokument, keine JOBOPTIONS-Datei und keine Druckfreigabe.

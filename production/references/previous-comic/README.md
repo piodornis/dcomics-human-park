@@ -1,6 +1,6 @@
 # Hier das bisherige Comic-Beispiel ablegen
 
-Status: WAITING_FOR_INPUT. Dieser Ordner ist für die spätere Lieferung vorbereitet; aktuell liegen keine Beispiel-Dokumente vor.
+Status: RECEIVED, 2026-09-17. INDD, IDML, Assets und Referenz-PDF sind eingegangen. Technischer Ersteingang siehe [intake.md](intake.md); vollständige Link-/Fontprüfung ausstehend.
 
 ## Was wohin gehört
 

@@ -38,3 +38,9 @@ Framework-Stand beim Start: `comic-framework-production` Commit `63e54b7aabf1b2e
 InDesign ist die vorgesehene Endstation für editierbares Lettering und Druckexport. [Produktionsübersicht](production/README.md), [Arbeitsablauf](production/workflow.md), [InDesign-Konventionen](production/indesign/README.md) und [Pilot Ausgabe 1](production/issues/issue-001/pilot/README.md) ergänzen die vorhandene Planung. Das bisherige Comic-Paket wird später unter [production/references/previous-comic/](production/references/previous-comic/README.md) bereitgestellt. Satz-, Asset-, Änderungs- und Prüfvorlagen sind angelegt; native Vorlage, Importskript und PDF-Erstellung folgen nach Beispielsichtung.
 
 Die neuen Unterordner sind eine projektspezifische Ergänzung des v0.1-draft-Frameworks. Story führt den Wortlaut, InDesign die endgültige Platzierung; Satzkorrekturen werden dokumentiert rückgeführt. Bestehende Formatwerte, physische Belegung und Story-/Designfreigaben behalten ihren Status.
+
+## Print24 — erster Spezifikationsentwurf 2026-09-17
+
+Dienstleister gemäß Autorenwunsch: print24. [Druckspezifikation Ausgabe 1](production/issues/issue-001/print-spec.md) trennt offizielle Webangaben, Projektvorschläge und offene Auftragsparameter. Beschnitt-Kandidat: 2 mm statt der bisherigen 3-mm-Planannahme; bei 170 × 260 mm ergibt das 174 × 264 mm. Noch keine bestätigte Formatüberschreibung; konkretes Datenblatt und Konfiguration fehlen.
+
+Die Beispieldaten sind eingegangen. [Intake](production/references/previous-comic/intake.md) dokumentiert insbesondere PDF-Trim 168 × 260 mm gegenüber IDML-Seiten 170 × 262 mm. Vor nativer Vorlage abgleichen. Keine Druckfreigabe oder Änderung generischer Framework-Profile.

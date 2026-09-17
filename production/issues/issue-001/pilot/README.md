@@ -1,6 +1,6 @@
 # Pilot: Satz und Druck für Ausgabe 1
 
-Stand: 2026-09-17. PREPARED; Beispieldaten aus dem bisherigen Comic fehlen noch. Kein finaler Satz begonnen.
+Stand: 2026-09-17. PREPARED; Beispieldaten sind eingegangen. Geometrieabweichung zwischen IDML und PDF sowie Link-/Fontprüfung noch offen. Kein finaler Satz begonnen.
 
 ## Vorgeschlagener Umfang
 
@@ -26,3 +26,7 @@ Maßgeblich: [Heftplan](../production-plan.md) und [Storyboard](../../../../issu
 7. Erst mit bestätigten Druckvorgaben Druckexport prüfen und Vorlage auf weitere Seiten ausrollen.
 
 Erfolgskriterium: editierbarer Satz, eindeutige Lesereihenfolge, lesbarer Originalgrößen-Ausdruck, nachvollziehbare Textkorrektur sowie überprüfter PDF-Export. Eine leere CSV und eine vorbereitete Ordnerstruktur erfüllen diese Kriterien noch nicht.
+
+## Eingang und Druckziel aktualisiert
+
+INDD/IDML, Assets und Referenz-PDF liegen vor; Schritt 1 oben ist hinsichtlich dieser Dateien erledigt. [Intake](../../../references/previous-comic/intake.md) dokumentiert den Eingang. [Print24-Spezifikation](../print-spec.md) ist ein erster Entwurf. Vor Vorlagenableitung IDML 170 × 262 mm / 0 mm Beschnitt gegen PDF-Trim 168 × 260 mm / 2 mm Beschnitt abgleichen.

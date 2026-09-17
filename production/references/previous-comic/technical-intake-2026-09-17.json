@@ -1,0 +1,528 @@
+{
+  "checked_at": "2026-09-17",
+  "scope": "Read-only geometry/metadata intake, not full PDF/X/preflight validation",
+  "files": {
+    "production/references/previous-comic/reference-pdf/cmm_202605210901-Schanz.pdf": {
+      "bytes": 28801947,
+      "sha256": "a8bec6844916a5440e74a68c639c5874491460e5e058b180597fd41228b67eac"
+    },
+    "production/references/previous-comic/package/cmm_202605210901.idml": {
+      "bytes": 15893803,
+      "sha256": "de9b318613c6a5f46c04706219b3d64fde3fbb4473a5e3e85b6c944cc701de5d"
+    },
+    "production/references/previous-comic/package/cmm_202605210901.indd": {
+      "bytes": 52563968,
+      "sha256": "b0cdabd0eee67ad6cc06b9e99c536e0697784f16993b5c1dee8d0d2a0288677b"
+    }
+  },
+  "pdf": {
+    "pages": 12,
+    "metadata": {
+      "/CreationDate": "D:20260521125928+02'00'",
+      "/Creator": "Adobe InDesign 21.3 (Macintosh)",
+      "/GTS_PDFXConformance": "PDF/X-3:2002",
+      "/GTS_PDFXVersion": "PDF/X-3:2002",
+      "/ModDate": "D:20260521125952+02'00'",
+      "/Producer": "Adobe PDF Library 18.0",
+      "/Title": "cmm_202605210901.indd",
+      "/Trapped": "/False"
+    },
+    "boxes_mm": [
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      },
+      {
+        "mediabox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ],
+        "trimbox": [
+          2.000003,
+          2.000003,
+          170.000083,
+          261.999942
+        ],
+        "bleedbox": [
+          0.0,
+          0.0,
+          171.999981,
+          263.999839
+        ]
+      }
+    ],
+    "output_intents": [
+      {
+        "/Info": "Coated FOGRA39 (ISO 12647-2:2004)",
+        "/OutputConditionIdentifier": "Coated FOGRA39 (ISO 12647-2:2004)",
+        "/RegistryName": "http://www.color.org",
+        "/S": "/GTS_PDFX",
+        "/Type": "/OutputIntent"
+      }
+    ]
+  },
+  "idml": {
+    "document_preferences": [
+      {
+        "PageHeight": "742.6771653543307",
+        "PageWidth": "481.8897637795275",
+        "PagesPerDocument": "1",
+        "FacingPages": "true",
+        "DocumentBleedTopOffset": "0",
+        "DocumentBleedBottomOffset": "0",
+        "DocumentBleedInsideOrLeftOffset": "0",
+        "DocumentBleedOutsideOrRightOffset": "0",
+        "DocumentBleedUniformSize": "true",
+        "SlugTopOffset": "0",
+        "SlugBottomOffset": "0",
+        "SlugInsideOrLeftOffset": "0",
+        "SlugRightOrOutsideOffset": "0",
+        "DocumentSlugUniformSize": "false",
+        "PreserveLayoutWhenShuffling": "true",
+        "AllowPageShuffle": "true",
+        "OverprintBlack": "true",
+        "PageBinding": "LeftToRight",
+        "ColumnDirection": "Horizontal",
+        "SpreadHiddenVisibility": "false",
+        "Intent": "PrintIntent",
+        "CreatePrimaryTextFrame": "false",
+        "ColumnGuideLocked": "true",
+        "MasterTextFrame": "false",
+        "SnippetImportUsesOriginalLocation": "false"
+      }
+    ],
+    "pages": [
+      {
+        "Self": "ud4",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "1",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 -1.0150610510858376e-15 739.8425196850394 481.88976377952747",
+        "ItemTransform": "1 0 0 1 0 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "UseMaster",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "ue9",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "2",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 2.4868995751603507e-14 739.8425196850394 481.8897637795275",
+        "ItemTransform": "1 0 0 1 -481.8897637795275 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "uea",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "3",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 -1.0150610510858376e-15 739.8425196850394 481.88976377952747",
+        "ItemTransform": "1 0 0 1 0 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "u297",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "4",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 2.4868995751603507e-14 739.8425196850394 481.8897637795275",
+        "ItemTransform": "1 0 0 1 -481.8897637795275 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "u298",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "5",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 -1.0150610510858376e-15 739.8425196850394 481.88976377952747",
+        "ItemTransform": "1 0 0 1 0 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "u83e",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "6",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 2.4868995751603507e-14 739.8425196850394 481.8897637795275",
+        "ItemTransform": "1 0 0 1 -481.8897637795275 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "u83f",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "7",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 -1.0150610510858376e-15 739.8425196850394 481.88976377952747",
+        "ItemTransform": "1 0 0 1 0 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "uc2b",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "8",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 2.4868995751603507e-14 739.8425196850394 481.8897637795275",
+        "ItemTransform": "1 0 0 1 -481.8897637795275 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "uc36",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "9",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 -1.0150610510858376e-15 739.8425196850394 481.88976377952747",
+        "ItemTransform": "1 0 0 1 0 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "uc2c",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "10",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 2.4868995751603507e-14 739.8425196850394 481.8897637795275",
+        "ItemTransform": "1 0 0 1 -481.8897637795275 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "uc41",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "11",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 -1.0150610510858376e-15 739.8425196850394 481.88976377952747",
+        "ItemTransform": "1 0 0 1 0 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      },
+      {
+        "Self": "uc37",
+        "TabOrder": "",
+        "AppliedMaster": "ud6",
+        "OverrideList": "",
+        "MasterPageTransform": "1 0 0 1 0 0",
+        "Name": "12",
+        "AppliedTrapPreset": "TrapPreset/$ID/kDefaultTrapStyleName",
+        "GeometricBounds": "-2.83464566929129 2.4868995751603507e-14 739.8425196850394 481.8897637795275",
+        "ItemTransform": "1 0 0 1 -481.8897637795275 -368.503937007874",
+        "AppliedAlternateLayout": "ud5",
+        "LayoutRule": "Off",
+        "SnapshotBlendingMode": "IgnoreLayoutSnapshots",
+        "OptionalPage": "false",
+        "GridStartingPoint": "TopOutside",
+        "UseMasterGrid": "true"
+      }
+    ],
+    "font_families": [
+      "Minion Pro",
+      "Myriad Pro",
+      "Kozuka Mincho Pr6N",
+      "Kopik",
+      "Neo Sans W1G",
+      "Adobe Clean UX"
+    ]
+  },
+  "assets_files_count": 86
+}
