@@ -87,3 +87,7 @@ Die ausgewählten Bilder und drei angenommenen Regeln bestätigen keine neue Zug
 ## Einheitliche Charakterablage
 
 **W-13 — Ablage harmonisiert.** [Charakterübersicht](characters/README.md) und [Designübersicht](design/characters/README.md) verbinden alle neun Profile mit eigenen Designakten. Zwölf bestehende Einzelbilder wurden unverändert in figurenspezifische `references/`-Ordner verschoben; [Manifest](design/characters/migration-2026-09-16.json) dokumentiert Pfade und Prüfsummen. Salim besitzt noch keine eigene Bildreferenz. Narrative Inhalte und Freigaben bleiben erhalten, aktive Verweise wurden angepasst. Nächster Schritt bei Bedarf: offene Einzelansichten und Salims ersten Entwurf ausarbeiten.
+
+## Satz- und Druckvorbereitung
+
+**W-14 — Produktionsstruktur vorbereitet (2026-09-17).** [Ablauf und Ablage](production/README.md), Satz-/Asset-/Änderungsvorlagen, Druckvorgaben und Prüfcheckliste sind angelegt. [Beispielordner](production/references/previous-comic/README.md) wartet auf das bisherige InDesign-Paket und Referenz-PDF. [Pilot S013/S014](production/issues/issue-001/pilot/README.md) ist vorgeschlagen; Auswahl und Durchführung offen. Nächster Schritt nach Lieferung: Beispiel analysieren, Satzkonventionen und InDesign-Version erfassen, dann native Vorlage und Import entwickeln. Keine INDD-/IDML-Datei, kein ausgeführtes Importskript und kein Druckexport vorhanden; bisherige Story-/Design-/Formatfreigaben bleiben unverändert.

@@ -32,3 +32,9 @@ Dies sind veränderbare Planungsannahmen. Umfang und Anzeigenbelegung werden je 
 `production/issues/<issue-id>/production-plan.md` enthält die jeweilige effektive Konfiguration und physische Seitenzuordnung. `source-register.md` daneben dokumentiert den gelesenen Quellstand und Absatzanker. Geänderte Quellen lösen einen Abgleich aus; keine automatische Neuberechnung mit stiller Inhaltsänderung.
 
 Framework-Stand beim Start: `comic-framework-production` Commit `63e54b7aabf1b2ebc00e0c13fb601182269a3214`. Ergänzt im aktuellen Arbeitsstand um das 24-Seiten-Beispiel und Prosa-Intake. Der Entwurf ist kein installierter Production-Skill und kein Druckexport.
+
+## Satz- und Druckworkflow — Vorbereitung 2026-09-17
+
+InDesign ist die vorgesehene Endstation für editierbares Lettering und Druckexport. [Produktionsübersicht](production/README.md), [Arbeitsablauf](production/workflow.md), [InDesign-Konventionen](production/indesign/README.md) und [Pilot Ausgabe 1](production/issues/issue-001/pilot/README.md) ergänzen die vorhandene Planung. Das bisherige Comic-Paket wird später unter [production/references/previous-comic/](production/references/previous-comic/README.md) bereitgestellt. Satz-, Asset-, Änderungs- und Prüfvorlagen sind angelegt; native Vorlage, Importskript und PDF-Erstellung folgen nach Beispielsichtung.
+
+Die neuen Unterordner sind eine projektspezifische Ergänzung des v0.1-draft-Frameworks. Story führt den Wortlaut, InDesign die endgültige Platzierung; Satzkorrekturen werden dokumentiert rückgeführt. Bestehende Formatwerte, physische Belegung und Story-/Designfreigaben behalten ihren Status.
