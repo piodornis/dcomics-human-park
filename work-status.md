@@ -86,7 +86,7 @@ Die ausgewählten Bilder und drei angenommenen Regeln bestätigen keine neue Zug
 
 ## Einheitliche Charakterablage
 
-**W-13 — Ablage harmonisiert.** [Charakterübersicht](characters/README.md) und [Designübersicht](design/characters/README.md) verbinden alle neun Profile mit eigenen Designakten. Zwölf bestehende Einzelbilder wurden unverändert in figurenspezifische `references/`-Ordner verschoben; [Manifest](design/characters/migration-2026-09-16.json) dokumentiert Pfade und Prüfsummen. Salim besitzt noch keine eigene Bildreferenz. Narrative Inhalte und Freigaben bleiben erhalten, aktive Verweise wurden angepasst. Nächster Schritt bei Bedarf: offene Einzelansichten und Salims ersten Entwurf ausarbeiten.
+**W-13 — Ablage harmonisiert.** [Charakterübersicht](characters/README.md) und [Designübersicht](design/characters/README.md) verbinden alle neun Profile mit eigenen Designakten. Zwölf bestehende Einzelbilder wurden unverändert in figurenspezifische `references/`-Ordner verschoben; [Manifest](design/characters/migration-2026-09-16.json) dokumentiert Pfade und Prüfsummen. Salims erste Bildreferenz wurde anschließend am 2026-09-18 übernommen und ausgewählt; siehe W-15. Narrative Inhalte und Freigaben bleiben erhalten, aktive Verweise wurden angepasst. Nächster Schritt bei Bedarf: offene Einzelansichten ausarbeiten.
 
 ## Satz- und Druckvorbereitung
 
@@ -95,3 +95,7 @@ Die ausgewählten Bilder und drei angenommenen Regeln bestätigen keine neue Zug
 ## W-14 — Eingang und Druckspezifikation aktualisiert, 2026-09-17
 
 Die zuvor fehlenden Beispieldaten sind eingegangen: INDD, IDML, 86 Assets und 12-seitiges Referenz-PDF. [Intake](production/references/previous-comic/intake.md) und technischer Nachweis angelegt. Vollständiger Link-/Fontcheck und Geometrieabgleich stehen aus. [Erste print24-Spezifikation](production/issues/issue-001/print-spec.md) samt Quellenregister erstellt; Beschnitt-Kandidat 2 mm unterscheidet sich von der bisherigen 3-mm-Annahme. Nächster Schritt: Produktkonfiguration/Datenblatt und endgültiges Format klären, dann Vorlage entwickeln. Noch kein natives Produktionsdokument, keine JOBOPTIONS-Datei und keine Druckfreigabe.
+
+## Figurenentwicklung — Salim
+
+**W-15 — Erster Entwurf übernommen (2026-09-18).** [Figurenblatt und Designakte](design/characters/salim/design.md) mit Originalprompt und Herkunftsnachweis abgelegt. Autorenentscheidung: SELECTED als visuelle Arbeitsrichtung. Nächster Schritt bei Bedarf: Seiten- und Rückenansichten ergänzen und Figurenkontinuität prüfen. Biografische Leerstellen und bevorzugtes Instrument bleiben offen.

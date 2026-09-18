@@ -44,3 +44,7 @@ Earth/Fundanlage: Referenzserie und Promptprotokolle ins Repo übernommen. Reche
 ## KI-Körperformen — Bau, Wetter, Pflege, Archiv und Unterhaltung
 
 [Designakte mit V1 und V2](design/characters/ki-koerperformen/design.md): sechs mobile Körperentwürfe und körperlose Systeme, einschließlich Prompts und Herkunft. V2 ist die vom Autor positiv bewertete Arbeitsrichtung, weiterhin EXPLORATION. Körperzuordnungen sind Designvorschläge; keine universelle Augen- oder Personenstatusregel.
+
+## Salim — ausgewählter erster Figurenentwurf
+
+[Designakte](design/characters/salim/design.md): Figurenblatt V1 am 2026-09-18 vom Autor übernommen, SELECTED. Ganzfigur, Porträt, Musikszene, Mimik und Palette sowie Originalprompt sind lokal abgelegt. Nächster Schritt bei Bedarf: weitere Ansichten und Kontinuitätsstudien.
