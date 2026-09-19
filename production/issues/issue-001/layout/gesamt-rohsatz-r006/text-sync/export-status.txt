@@ -1,0 +1,4 @@
+document=/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/heft-1-gesamt-rohsatz-r006/human-park-1-gesamt-rohsatz-r006.indd
+unsaved_changes=true
+text_frames=158
+exported_at=Saturday, 19 Sep 2026 00:09:01 GMT

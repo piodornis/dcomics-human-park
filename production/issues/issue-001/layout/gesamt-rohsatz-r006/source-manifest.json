@@ -1,0 +1,10 @@
+{
+  "root": "/Users/ralphdornis/Documents/GitHub/dcomics-human-park",
+  "files": {
+    "issues/issue-001/storyboard.md": "fa9166b376f6d0d17beab52311b7c77d29cf8782483e7ba7a374fba05315e63d",
+    "issues/issue-001/script.md": "7198b362a809e0dabb3bdaa8634cdacbaaff05839aa3ac2f175c130b453d118d",
+    "production/issues/issue-001/production-plan.md": "187c562bddfce9f0f2be79af8529ac420f6534ebcd3a85edd4ae621e7346d303",
+    "editorial/issue-001/wissen-hinter-der-geschichte.md": "6eeb948759aae914a13ad9dc062ec4209d37aa32c532b1515ad4e373532f9227"
+  },
+  "r021_layout_sha256": "18ab1d68947c60f39fb0858bca81e9ff89cdf5bc705897d560f7ad09b4e19e80"
+}

@@ -1,0 +1,645 @@
+{
+  "mode": "apply",
+  "metadata": {
+    "export_sha256": "5626a06c1f85d1c59764c3532bde88ff564f2e408bb350a3db3895430228e732",
+    "export_status": "document=/Users/ralphdornis/Documents/ChatGPT/dcomic-human-park-production/output/heft-1-gesamt-rohsatz-r006/human-park-1-gesamt-rohsatz-r006.indd\nunsaved_changes=true\ntext_frames=158\nexported_at=Saturday, 19 Sep 2026 00:09:01 GMT\n",
+    "captured_at": "2026-09-19T00:09:47.220922+00:00"
+  },
+  "results": [
+    {
+      "text_id": "C1-ART-MISSING",
+      "action": "equal"
+    },
+    {
+      "text_id": "C1-ISSUE",
+      "action": "equal"
+    },
+    {
+      "text_id": "C1-OPEN",
+      "action": "equal"
+    },
+    {
+      "text_id": "C1-TITLE",
+      "action": "equal"
+    },
+    {
+      "text_id": "C2-OPEN",
+      "action": "equal"
+    },
+    {
+      "text_id": "C2-OPTION",
+      "action": "equal"
+    },
+    {
+      "text_id": "C2-TITLE",
+      "action": "equal"
+    },
+    {
+      "text_id": "S000-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S000-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S001-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S001-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S001-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S001-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S001-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S001-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S001-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S001-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S001-P05-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S001-P05-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S002-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S002-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S002-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S002-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S002-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S002-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S002-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S002-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S002-P05-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S002-P05-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S003-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S003-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S003-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S003-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S003-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S003-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S003-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S003-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S003-P05-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S003-P05-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S004-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S004-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S004-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S004-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S004-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S004-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S004-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S004-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S004-P05-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S004-P05-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "I006-OPEN",
+      "action": "equal"
+    },
+    {
+      "text_id": "I006-OPTION",
+      "action": "equal"
+    },
+    {
+      "text_id": "I006-TITLE",
+      "action": "equal"
+    },
+    {
+      "text_id": "S005-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S005-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S005-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S005-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S005-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S005-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S005-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S005-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P05-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P05-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P06-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S006-P06-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S007-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S007-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S007-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S007-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S007-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S007-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S007-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S007-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S007-P05-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S007-P05-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P05-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P05-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P06-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S008-P06-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S009-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S009-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S009-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S009-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S009-P05-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S010-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S010-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S010-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S010-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S010-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S010-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S010-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S010-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S010-P05-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S010-P05-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S011-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S011-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S011-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S011-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S011-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S011-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S011-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S011-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S011-P05-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S011-P05-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "I014-OPEN",
+      "action": "equal"
+    },
+    {
+      "text_id": "I014-OPTION",
+      "action": "equal"
+    },
+    {
+      "text_id": "I014-TITLE",
+      "action": "equal"
+    },
+    {
+      "text_id": "S012-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S012-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S012-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S012-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S012-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S012-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S013-P01-TEXT",
+      "action": "native_to_csv"
+    },
+    {
+      "text_id": "S013-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S013-P03-TEXT",
+      "action": "native_to_csv"
+    },
+    {
+      "text_id": "S013-P04-TEXT",
+      "action": "native_to_csv"
+    },
+    {
+      "text_id": "S014-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S014-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S014-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S015-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S015-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S015-P02-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S015-P02-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S015-P03-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S015-P03-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S015-P04-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S015-P04-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "S016-P01-PLACEHOLDER",
+      "action": "equal"
+    },
+    {
+      "text_id": "S016-P01-TEXT",
+      "action": "equal"
+    },
+    {
+      "text_id": "I020-DRAFT",
+      "action": "equal"
+    },
+    {
+      "text_id": "I020-IMPRINT-OPEN",
+      "action": "equal"
+    },
+    {
+      "text_id": "I020-IMPRINT-TITLE",
+      "action": "equal"
+    },
+    {
+      "text_id": "I020-OPEN",
+      "action": "equal"
+    },
+    {
+      "text_id": "I020-STATUS",
+      "action": "equal"
+    },
+    {
+      "text_id": "I020-THEME",
+      "action": "equal"
+    },
+    {
+      "text_id": "I020-TITLE",
+      "action": "equal"
+    },
+    {
+      "text_id": "C3-OPEN",
+      "action": "equal"
+    },
+    {
+      "text_id": "C3-OPTION",
+      "action": "equal"
+    },
+    {
+      "text_id": "C3-TITLE",
+      "action": "equal"
+    },
+    {
+      "text_id": "C4-OPEN",
+      "action": "equal"
+    },
+    {
+      "text_id": "C4-OPTION",
+      "action": "equal"
+    },
+    {
+      "text_id": "C4-TITLE",
+      "action": "equal"
+    }
+  ],
+  "conflicts": [],
+  "native_updates": 3,
+  "csv_only_pending": 0
+}

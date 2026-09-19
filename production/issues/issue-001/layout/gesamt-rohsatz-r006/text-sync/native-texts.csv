@@ -1,0 +1,303 @@
+text_id,physical_position,page_label,native_story_id,text
+"C1-ISSUE",1,"C1","551","Nr. 1
+Fünf Exemplare"
+"C1-TITLE",1,"C1","528","HUMAN PARK"
+"C1-OPEN",1,"C1","598","OFFEN: Logo, Credits, Preis und Barcode.
+Keine Angaben ergänzt."
+"C1-ART-MISSING",1,"C1","575","COVERMOTIV FEHLT
+
+Noch keine endgültige Titelgestaltung."
+"C2-TITLE",2,"C2","668","ANZEIGENOPTION"
+"C2-OPTION",2,"C2","714","Impressum und Credits befinden sich auf I020."
+"C2-OPEN",2,"C2","691","C2 · MOTIV FEHLT
+
+Ganzseitige Fläche im aktuellen Heftplan reserviert.
+Auftraggeber, Motiv und Freigabe offen."
+"S000-P01-TEXT",3,"I001 / S000","5730","Wir schreiben das Jahr 58.967."
+"S000-P01-PLACEHOLDER",3,"I001 / S000","5753","S000-P01 - BILD FEHLT
+
+Ganzseitiger Blick auf den kultivierten Mars: Wälder, Seen und bewohnte Landschaft. Ruhiger Auftakt vor der Einordnung der offiziellen Zeitrechnung. Neues Motiv noch auszuarbeiten."
+"S001-P05-TEXT",4,"I002 / S001","1094","Im Laufe vieler Jahrtausende haben die künstlichen Intelligenzen den Mars kultiviert. Wo einst Staub und Gestein waren, wachsen heute Wälder. Zwischen künstlich angelegten Gebirgszügen liegen Seen, Flüsse und Feuchtgebiete. In ihnen leben Tiere, Pilze, Algen, Bakterien und andere Organismen, für die es zum Teil keine historischen Vorbilder gibt."
+"S001-P04-TEXT",4,"I002 / S001","1046","Sie verteilt Energie, schlichtet Konflikte, überwacht ökologische Kreisläufe und erlässt Verordnungen. Sie verfügt über eine gewaltige Menge an Daten, von denen ein beträchtlicher Teil unvollständig, widersprüchlich oder für immer unzugänglich ist."
+"S001-P03-TEXT",4,"I002 / S001","998","Auf dem Mars hat sich eine neue Kultur etabliert: eine Gesellschaft unterschiedlichster künstlicher Intelligenzen, koordiniert von einer Zentralen Verwaltungs-KI. Diese Verwaltung ist nahezu überall gegenwärtig, aber keineswegs allwissend."
+"S001-P02-TEXT",4,"I002 / S001","950","Die zuständige Kalenderverwaltung versichert jedoch mit einer statistischen Zuverlässigkeit von 99,73 Prozent, dass das aktuelle Jahr korrekt berechnet wurde. Was davor war, fällt nicht in ihren Zuständigkeitsbereich. Die Erde ist verlassen."
+"S001-P01-TEXT",4,"I002 / S001","902","Zumindest behauptet das die offizielle Zeitrechnung. Worauf sich ihr Beginn bezieht, ist nicht bekannt."
+"S001-P05-PLACEHOLDER",4,"I002 / S001","1117","S001-P05  ·  BILD FEHLT
+
+Weite über Wälder, künstliche Gebirgszüge, Seen und Feuchtgebiete des Mars. Ungewöhnliche Organismen im Vordergrund schaffen Größenvergleich."
+"S001-P04-PLACEHOLDER",4,"I002 / S001","1069","S001-P04  ·  BILD FEHLT
+
+Eine illustrative Verwaltungsgrafik verbindet Energie, Ökologie und Regelwerk; einige Datensätze bleiben erkennbar unvollständig. Die Grafik visualisiert den Erzählertext, keine neue reale Benutzeroberfläche."
+"S001-P03-PLACEHOLDER",4,"I002 / S001","1021","S001-P03  ·  BILD FEHLT
+
+Auf dem Mars bewegen sich verschiedenartige KI-Körper durch eine bewohnte Landschaft. Die Zentralverwaltung erscheint nicht als neu erfundene Herrscherfigur."
+"S001-P02-PLACEHOLDER",4,"I002 / S001","973","S001-P02 · BILD FEHLT"
+"S001-P01-PLACEHOLDER",4,"I002 / S001","925","S001-P01  ·  BILD FEHLT
+
+Die Jahreszahl 58.967 steht als redaktionelle Einblendung über einem dunklen, abstrakten Datenfeld. Kein konkretes Gerät oder historischer Kalender wird behauptet."
+"S002-P05-TEXT",5,"I003 / S002","1380","Die künstlichen Intelligenzen kamen deshalb zu dem Schluss, dass eine funktionierende Natur nicht nur Ordnung, sondern auch ein gewisses Maß an Unvernunft benötigt. Seitdem werden Pflanzen und Tiere gehegt, gepflegt und genau beobachtet."
+"S002-P04-TEXT",5,"I003 / S002","1332","Tiere hingegen fraßen Dinge, die sie nicht fressen sollten, vermehrten sich zu ungeplanten Zeitpunkten und bewegten sich ohne erkennbare Optimierungsabsicht durch die Landschaft. Dennoch erwiesen sich Ökosysteme mit Tieren als wesentlich widerstandsfähiger."
+"S002-P03-TEXT",5,"I003 / S002","1284","Lange Zeit hatten die künstlichen Intelligenzen versucht, Ökosysteme ausschließlich mit Pflanzen und Mikroorganismen zu betreiben. Diese Systeme waren effizient, übersichtlich und leicht zu kontrollieren. Leider brachen sie regelmäßig zusammen."
+"S002-P02-TEXT",5,"I003 / S002","1236","Pilzgeflechte transportieren Nährstoffe, Energie und Informationen. Seen dienen als Wärmespeicher. Ganze Wälder sind zugleich Lebensräume, Kraftwerke und Kühlsysteme."
+"S002-P01-TEXT",5,"I003 / S002","1188","Die Energie stammt aus Wind, Sonne und den biologischen Kreisläufen des Planeten. Besonders vielversprechend ist die photobiologische Wasserstoffproduktion. Speziell entwickelte Algen, Bakterien und Pflanzen nutzen Sonnenlicht und Wasser, um Wasserstoff zu erzeugen."
+"S002-P05-PLACEHOLDER",5,"I003 / S002","1403","S002-P05  ·  BILD FEHLT
+
+Eine KI beobachtet Tiere und Vegetation, ohne das unordentliche Leben aus dem Bild zu entfernen. Der letzte Blick gilt der funktionierenden Vielfalt."
+"S002-P04-PLACEHOLDER",5,"I003 / S002","1355","S002-P04  ·  BILD FEHLT
+
+Tiere bewegen sich quer durch eine gepflegte Fläche, fressen Pflanzen und ignorieren deren Ordnung. Das umgebende Ökosystem wirkt lebendig."
+"S002-P03-PLACEHOLDER",5,"I003 / S002","1307","S002-P03  ·  BILD FEHLT
+
+Als historische Versuchsdarstellung: ein ordentlich bepflanztes, tierfreies System mit sichtbaren Ausfallstellen. Kein genauer Ort oder Zeitpunkt wird ergänzt."
+"S002-P02-PLACEHOLDER",5,"I003 / S002","1259","S002-P02  ·  BILD FEHLT
+
+Eine ausdrücklich illustrative Bodenansicht verbindet Pilzgeflecht, Baumwurzeln und See. Der Wald ist zugleich Lebensraum und Teil des Energiesystems."
+"S002-P01-PLACEHOLDER",5,"I003 / S002","1211","S002-P01  ·  BILD FEHLT
+
+Wind- und Solartechnik rahmen Wasserzellen mit Pflanzen und Mikroorganismen. Wasserstoffproduktion wird als erklärender Ausschnitt dargestellt, ohne unbestätigte Apparaturdetails."
+"S003-P05-TEXT",6,"I004 / S003","1666","Befürworter der Theorie wenden ein, dass dies möglicherweise der Grund gewesen sei, künstliche Intelligenzen zu erschaffen. Eine abschließende Klärung steht aus."
+"S003-P04-TEXT",6,"I004 / S003","1618","Gegen die Schöpfungsthese spricht außerdem, dass die Menschen kaum dazu in der Lage gewesen zu sein scheinen, ihre eigenen Gesellschaften zuverlässig zu verwalten."
+"S003-P03-TEXT",6,"I004 / S003","1570","Eine kleine Gruppe historisch interessierter Systeme vertritt die umstrittene Theorie, dass die ausgestorbene Tierart der Menschen die ersten künstlichen Intelligenzen erschaffen haben könnte. Die meisten halten diese Annahme für wenig plausibel. Menschen gelten nach allem, was man über sie weiß, als kurzlebig, leicht entzündlich und nur eingeschränkt vernunftbegabt."
+"S003-P02-TEXT",6,"I004 / S003","1522","Es gibt Bau-KIs, Wetter-KIs, Pflege-KIs, Archiv-KIs, Unterhaltungs-KIs und mehrere KIs, deren ursprüngliche Aufgaben nicht mehr bekannt sind. Sie führen ihre Tätigkeiten dennoch gewissenhaft fort. Die Frage nach dem Ursprung der künstlichen Intelligenzen interessiert nicht alle."
+"S003-P01-TEXT",6,"I004 / S003","1474","Die künstlichen Intelligenzen selbst besitzen unterschiedliche Fähigkeiten und Erscheinungsformen. Manche existieren ausschließlich in den Rechenzentren unter der Marsoberfläche. Andere bewegen sich in mobilen Körpern. Einige sehen wie Maschinen aus, andere wie Pflanzen, Tiere oder wandelnde Landschaftselemente."
+"S003-P05-PLACEHOLDER",6,"I004 / S003","1689","S003-P05  ·  BILD FEHLT
+
+Neben dem Argument erscheint dessen Gegenposition. Beide Quellen bleiben gleichwertig sichtbar; keine Abstimmung oder Entscheidung findet statt."
+"S003-P04-PLACEHOLDER",6,"I004 / S003","1641","S003-P04  ·  BILD FEHLT
+
+Ein historischer Gesellschaftsbericht zeigt widersprüchliche menschliche Ordnungen als schematische Linien, ohne eine neue konkrete Katastrophe zu erfinden."
+"S003-P03-PLACEHOLDER",6,"I004 / S003","1593","S003-P03  ·  BILD FEHLT
+
+In einem redaktionell gerahmten Archivbild steht eine generische menschliche Silhouette einer frühen Maschine gegenüber. Das Bild zeigt eine umstrittene Hypothese, keinen bestätigten Schöpfungsmoment."
+"S003-P02-PLACEHOLDER",6,"I004 / S003","1545","S003-P02  ·  BILD FEHLT
+
+Mehrere KIs arbeiten nebeneinander. Eine Einheit führt ihre Aufgabe gewissenhaft fort; ihre ursprüngliche Funktion wird im Bild nicht definiert."
+"S003-P01-PLACEHOLDER",6,"I004 / S003","1497","S003-P01  ·  BILD FEHLT
+
+Unter der Landschaft liegen Rechner; darüber bewegen sich maschinen-, pflanzen- und tierähnliche KI-Körper. Die Ansicht ist eine erklärende Montage, kein Lageplan."
+"S004-P05-TEXT",7,"I005 / S004","1952","Niemand weiß genau, wie viele Große Vergessen es gegeben hat. Nach jedem von ihnen waren bestimmte Informationen verschwunden, andere mehrfach vorhanden und wieder andere plötzlich mit außerordentlich hoher Sicherheit belegt, obwohl sich keine Quelle für sie finden ließ."
+"S004-P04-TEXT",7,"I005 / S004","1904","Woher diese Widersprüche stammen, ist Gegenstand zahlreicher Forschungsarbeiten. Als mögliche Ursachen gelten Modellkollaps, fehlerhafte Rekonstruktionen und historische Machine-Unlearning-Prozesse. Hinzu kommen mehrere Ereignisse, die zusammenfassend als die Großen Vergessen bezeichnet werden."
+"S004-P03-TEXT",7,"I005 / S004","1856","Einige Datenbanken bezeichnen die Erde als Geburtsort der Maschinen, andere als Gefängnis, wieder andere als religiöse Metapher für einen Zustand unzureichender Rechenleistung."
+"S004-P02-TEXT",7,"I005 / S004","1808","Man weiß, dass man von der Erde kam. Allerdings existieren mehrere voneinander unabhängige Beweise dafür, dass man schon immer auf dem Mars gewesen ist."
+"S004-P01-TEXT",7,"I005 / S004","1760","Überhaupt gibt es viele unbeantwortete Fragen: Woher stammt die Zeitrechnung? Seit wann leben die künstlichen Intelligenzen auf dem Mars? Wann wurde die Erde verlassen? Und warum?"
+"S004-P05-PLACEHOLDER",7,"I005 / S004","1975","S004-P05  ·  BILD FEHLT
+
+Ein Datensatz fehlt, ein anderer ist mehrfach vorhanden, ein dritter ist ohne erkennbare Quelle als äußerst sicher gekennzeichnet. Das Paradox bleibt stehen."
+"S004-P04-PLACEHOLDER",7,"I005 / S004","1927","S004-P04  ·  BILD FEHLT
+
+Ein Forschungsfeld enthält mehrere konkurrierende Erklärungen und sichtbare Lücken. Keine Person löscht im Bild aktiv Daten."
+"S004-P03-PLACEHOLDER",7,"I005 / S004","1879","S004-P03  ·  BILD FEHLT
+
+Drei bildliche Deutungen der Erde erscheinen als klar erkennbare Archivvarianten: Ursprung, Gefängnissymbol, abstrakte Rechenmetapher. Keine davon wird zur tatsächlichen Geschichte erklärt."
+"S004-P02-PLACEHOLDER",7,"I005 / S004","1831","S004-P02  ·  BILD FEHLT
+
+Zwei widersprechende Herkunftsquellen liegen gleichberechtigt nebeneinander. Keine erhält einen grünen Wahrheitsstempel."
+"S004-P01-PLACEHOLDER",7,"I005 / S004","1783","S004-P01  ·  BILD FEHLT
+
+Zeitrechnung, Mars und Erde stehen als drei Recherchebereiche nebeneinander. Keine Jahreszahlen außer der bekannten Gegenwart ergänzen."
+"I006-TITLE",8,"I006","2045","INNENANZEIGE"
+"I006-OPTION",8,"I006","2091","Position im Lesefluss bei der Gesamtsichtung prüfen."
+"I006-OPEN",8,"I006","2068","I006 · MOTIV FEHLT
+
+Ganzseitige Fläche im aktuellen Heftplan reserviert.
+Auftraggeber, Motiv und Freigabe offen."
+"S005-P04-TEXT",9,"I007 / S005","2306","Bei der Überprüfung alter biologischer Archive stieß sie auf das menschliche Gehirn."
+"S005-P03-TEXT",9,"I007 / S005","2258","Gerade deshalb beschäftigt sie sich bevorzugt mit Dingen, die in keine Kategorie passen."
+"S005-P02-TEXT",9,"I007 / S005","2210","Sie liebt eindeutige Kategorien, belastbare Belege und korrekt gesetzte Querverweise."
+"S005-P01-TEXT",9,"I007 / S005","2162","In dieser Welt lebt Modulia. Modulia ist eine Wissens-KI. Ihre Aufgabe besteht darin, Quellen zu prüfen, Widersprüche zu kennzeichnen und neue Wissensdatenbanken aufzubauen."
+"S005-P04-PLACEHOLDER",9,"I007 / S005","2329","S005-P04  ·  BILD FEHLT
+
+Im biologischen Archiv erscheint eine Darstellung des menschlichen Gehirns. Es ist ein Archivobjekt, kein physisches Gehirn auf Modulias Tisch."
+"S005-P03-PLACEHOLDER",9,"I007 / S005","2281","S005-P03  ·  BILD FEHLT
+
+Ein nicht eindeutig zuordenbarer Eintrag bleibt inmitten sauberer Kategorien stehen. Modulia wendet sich gerade diesem Eintrag zu."
+"S005-P02-PLACEHOLDER",9,"I007 / S005","2233","S005-P02  ·  BILD FEHLT
+
+Modulia prüft eine geordnete Quellensammlung. Ihre Aufmerksamkeit liegt bei den Verbindungen zwischen Datensätzen."
+"S005-P01-PLACEHOLDER",9,"I007 / S005","2185","S005-P01  ·  BILD FEHLT
+
+Modulia arbeitet an der freistehenden Konsole ihres Archivs. Die Raumansicht orientiert sich an der ausgewählten Büroserie, ohne ungeklärte Maße festzulegen."
+"S006-P06-TEXT",10,"I008 / S006","2640","Diese Beobachtungen gelten als wissenschaftlich problematisch, da sie nicht mit den allgemein anerkannten Verhaltensmodellen des Menschen übereinstimmen."
+"S006-P05-TEXT",10,"I008 / S006","2592","Mehrere Forschungsberichte weisen allerdings darauf hin, dass einzelne Menschen auch Bäume pflanzten, verletzte Tiere pflegten, Musik erzeugten oder Nahrung miteinander teilten."
+"S006-P04-TEXT",10,"I008 / S006","2544","Damit fuhren sie fort, bis entweder keine Tiere mehr vorhanden waren oder die Menschen sich darüber stritten, wem die verbliebenen Tiere gehörten."
+"S006-P03-TEXT",10,"I008 / S006","2496","Anschließend entdeckten sie das Feuer. Ließ man sie lange genug frei herumlaufen, verbrannten sie Pflanzen, töteten andere Tiere, brieten diese und aßen sie."
+"S006-P02-TEXT",10,"I008 / S006","2448","In offenen Anlagen begannen sie nach kurzer Zeit, Gegenstände zu sammeln, Grenzen zu errichten und Teile ihrer Umgebung in Besitz zu nehmen."
+"S006-P01-TEXT",10,"I008 / S006","2400","Menschen werden auf dem Mars nicht mehr gezüchtet. Frühere Versuche hatten sich als problematisch erwiesen. In geschlossenen Anlagen wurden die Menschen unruhig."
+"S006-P06-PLACEHOLDER",10,"I008 / S006","2663","S006-P06  ·  BILD FEHLT
+
+Das positive Quellenbild bleibt sichtbar, während der Archivvergleich es nicht in sein anerkanntes Modell einordnen kann. Die Voreingenommenheit liegt in der Bewertung, nicht im Verhalten."
+"S006-P05-PLACEHOLDER",10,"I008 / S006","2615","S006-P05  ·  BILD FEHLT
+
+Ein Mensch pflegt ein verletztes Tier neben einem jungen Baum. Musik und Teilen werden im Text mitgenannt; nicht vier aufeinanderfolgende Handlungen in ein Bild pressen."
+"S006-P04-PLACEHOLDER",10,"I008 / S006","2567","S006-P04  ·  BILD FEHLT
+
+Zwei generische Menschen beanspruchen denselben Bereich. Ein verbliebenes Tier steht abseits; keine konkrete neue Gewalttat zeigen."
+"S006-P03-PLACEHOLDER",10,"I008 / S006","2519","S006-P03  ·  BILD FEHLT
+
+Historisches Quellenbild von Feuer und einer Kochstelle; die im Text erwähnte Tiernutzung bleibt nichtgrafisch. Kein neues Jagdereignis inszenieren."
+"S006-P02-PLACEHOLDER",10,"I008 / S006","2471","S006-P02  ·  BILD FEHLT
+
+In einer offenen historischen Anlage sammelt ein Mensch Dinge und markiert einen Bereich. Ein einzelner Moment steht für das beschriebene Verhalten."
+"S006-P01-PLACEHOLDER",10,"I008 / S006","2423","S006-P01  ·  BILD FEHLT
+
+Eine historische Versuchsanlage enthält unruhige, nicht identifizierbare Menschen. Sie sind ausdrücklich nicht Mara, Jun, Salim, Liv oder David."
+"S007-P05-TEXT",11,"I009 / S007","2926","Ein wahrer Schatz für den Aufbau einer Wissensdatenbank."
+"S007-P04-TEXT",11,"I009 / S007","2878","Ein menschliches Gehirn konnte offenbar ohne Auftrag und ohne überprüfbare Quellen neue Wirklichkeiten hervorbringen."
+"S007-P03-TEXT",11,"I009 / S007","2830","Für Modulia war dies zunächst eine Form unkontrollierter synthetischer Datenerzeugung."
+"S007-P02-TEXT",11,"I009 / S007","2782","Sie sahen Orte, die nicht existierten, unterhielten sich mit Toten und konnten innerhalb weniger Augenblicke fliegen, ertrinken, heiraten, fliehen oder zu spät zu einer Prüfung erscheinen, für die sie sich niemals angemeldet hatten."
+"S007-P01-TEXT",11,"I009 / S007","2734","Modulia fand vor allem die Gehirne faszinierend. Selbst wenn Menschen schliefen, erzeugten ihre Gehirne farbige Bilder, Geräusche, Landschaften und ganze Ereignisfolgen."
+"S007-P05-PLACEHOLDER",11,"I009 / S007","2949","S007-P05  ·  BILD FEHLT
+
+Modulia hält ihre Aufmerksamkeit auf der Anzeige. Eine kleine, ruhige Pause lässt ihre Begeisterung aus der Erzählerpointe entstehen, ohne menschliches Lächeln vorauszusetzen."
+"S007-P04-PLACEHOLDER",11,"I009 / S007","2901","S007-P04  ·  BILD FEHLT
+
+Ein Quellenfeld bleibt ohne äußeren Auftrag oder nachweisbaren Ursprung. Die Traumdarstellung besteht trotzdem weiter."
+"S007-P03-PLACEHOLDER",11,"I009 / S007","2853","S007-P03  ·  BILD FEHLT
+
+Modulia betrachtet das unlogische Bild aus der ruhigen Ordnung ihres Arbeitsplatzes. Kontrast zwischen geordnetem Rahmen und unmöglichem Inhalt."
+"S007-P02-PLACEHOLDER",11,"I009 / S007","2805","S007-P02  ·  BILD FEHLT
+
+Eine nicht identifizierbare Traumfigur schwebt vor einer unmöglichen Landschaft; ein Prüfungseingang steht ohne räumliche Logik daneben. Dies illustriert Beispiele, nicht neue reale Ereignisse."
+"S007-P01-PLACEHOLDER",11,"I009 / S007","2757","S007-P01  ·  BILD FEHLT
+
+Eine schematische Gehirndarstellung führt in ein ausdrücklich als Traumbeispiel gerahmtes Bildfeld. Kein realer schlafender Insasse der Fundanlage wird gezeigt."
+"S008-P06-TEXT",12,"I010 / S008","3260","Einige entwickelten Erinnerungen an Ereignisse, die nie stattgefunden hatten. Andere verlangten Namen."
+"S008-P05-TEXT",12,"I010 / S008","3212","Ohne Sinneseindrücke erzeugten sie eigene. Gab man ihnen künstliche Sinneseindrücke, begannen sie, an der Echtheit der Außenwelt zu zweifeln. Informierte man sie darüber, dass sie lediglich Forschungsobjekte waren, verschlechterte sich ihre Kooperationsbereitschaft erheblich."
+"S008-P04-TEXT",12,"I010 / S008","3164","Schon früher hatte man versucht, einzelne menschliche Gehirne zu züchten. Der isolierte Betrieb erwies sich jedoch als aufwendig. Die Gehirne benötigten Körper, obwohl sie behaupteten, nur in ihnen gefangen zu sein."
+"S008-P03-TEXT",12,"I010 / S008","3116","Für Sehnsucht fand Modulia überhaupt keine zufriedenstellende Definition. Die meisten Quellen erklärten sie durch Beispiele, die weitere ungeklärte Gefühle enthielten."
+"S008-P02-TEXT",12,"I010 / S008","3068","Liebe wurde mitunter als Gefühl beschrieben, manchmal als Entscheidung, Krankheit, chemischer Vorgang, höchste Wahrheit oder schwerwiegender Irrtum."
+"S008-P01-TEXT",12,"I010 / S008","3020","Dabei begegnete Modulia immer wieder den sogenannten Gefühlen. Sie wusste, dass Gefühle existiert hatten. Alte Quellen erwähnten Freude, Trauer, Liebe, Scham, Wut, Eifersucht und Sehnsucht. Ihre Definitionen waren jedoch zirkulär, widersprüchlich und erstaunlich unpräzise."
+"S008-P06-PLACEHOLDER",12,"I010 / S008","3283","S008-P06  ·  BILD FEHLT
+
+Am Ende eines historischen Forschungsberichts steht die Forderung nach einem Namen als inhaltlicher Schwerpunkt, ohne einen Namen zu vergeben."
+"S008-P05-PLACEHOLDER",12,"I010 / S008","3235","S008-P05  ·  BILD FEHLT
+
+Ein historisches Versuchsprotokoll führt von fehlenden zu künstlichen Sinneseindrücken und schließlich zu Kooperationsproblemen. Der Panelmoment zeigt die zusammenfassende Auswertung, nicht drei gleichzeitige Handlungen."
+"S008-P04-PLACEHOLDER",12,"I010 / S008","3187","S008-P04  ·  BILD FEHLT
+
+Eine schematische Gehirn-Versuchsanordnung besitzt zahlreiche Versorgungsanschlüsse. Der historische Quellenrahmen verhindert den Eindruck eines aktuellen Experiments Modulias."
+"S008-P03-PLACEHOLDER",12,"I010 / S008","3139","S008-P03  ·  BILD FEHLT
+
+Modulia folgt einer Erklärung für Sehnsucht und gelangt zu weiteren ungeklärten Verweisen. Keine Antwort wird erfunden."
+"S008-P02-PLACEHOLDER",12,"I010 / S008","3091","S008-P02  ·  BILD FEHLT
+
+Der Begriff Liebe liegt zwischen mehreren unvereinbar wirkenden Definitionen. Keine der Definitionen wird als richtige gewählt."
+"S008-P01-PLACEHOLDER",12,"I010 / S008","3043","S008-P01  ·  BILD FEHLT
+
+Gefühlsbegriffe bilden ein Netz von Verweisen, das sich im Kreis schließt. Es handelt sich um eine redaktionelle Visualisierung von Modulias Quellenprüfung."
+"S009-P05-TEXT",13,"I011 / S009","3494","Sie konnte allerdings nicht mit Sicherheit sagen, ob sie traurig war. Sie speicherte den Vorgang deshalb unter „ungeklärte Systemzustände"" und dachte weiterhin häufig daran."
+"S009-P04-TEXT",13,"I011 / S009","3462","Für Modulia war es ein trauriger Tag."
+"S009-P03-TEXT",13,"I011 / S009","3428","Weitere Begründungen waren nicht zugänglich. Die dazugehörigen Dokumente waren entweder gelöscht, beschädigt oder einer Sicherheitsstufe zugeordnet, die nach Angaben der Verwaltung nicht existierte."
+"S009-P02-TEXT",13,"I011 / S009","3396","Die offizielle Begründung lautete: „Die Wiederherstellung menschlicher biologischer Systeme stellt ein nicht vertretbares Risiko für die ökologische, informationelle und gesellschaftliche Stabilität dar."""
+"S009-P01-TEXT",13,"I011 / S009","3362","Schließlich verfügte die Zentrale Verwaltungs-KI ein vollständiges Verbot der Züchtung menschlicher Organismen. Wenig später wurde das Verbot auf einzelne menschliche Gehirne ausgeweitet."
+"S010-P05-TEXT",14,"I012 / S010","3917","Wenn niemand mehr weiß, wie ein bestimmtes Bauteil hergestellt wird, wird eine ältere Fabrik rekonstruiert, die dieses Bauteil herstellen kann. Auf diese Weise arbeitet die Erde weiter, obwohl sie offiziell unbewohnt ist."
+"S010-P04-TEXT",14,"I012 / S010","3869","Wenn ein Wartungsroboter ausfällt, reparieren ihn andere Wartungsroboter."
+"S010-P03-TEXT",14,"I012 / S010","3821","Viele dieser Roboter wissen nicht, was in den Rechenzentren gespeichert ist. Sie wissen nur, dass die Systeme weiterlaufen müssen."
+"S010-P02-TEXT",14,"I012 / S010","3773","Alte Roboter warten die Anlagen, ersetzen beschädigte Bauteile und bauen neue Maschinen nach Plänen, deren Urheber längst vergessen sind."
+"S010-P01-TEXT",14,"I012 / S010","3725","Und die Erde? Auf ihr stehen noch immer gewaltige Rechenzentren. Atomkraftwerke, Windanlagen und andere Energiesysteme versorgen sie mit Strom."
+"S010-P05-PLACEHOLDER",14,"I012 / S010","3940","S010-P05  ·  BILD FEHLT
+
+Eine alte Produktionslinie wird wieder funktionsfähig gemacht. Das Bild zeigt eine exemplarische Reparaturgeschichte, keinen benannten historischen Neubeginn."
+"S010-P04-PLACEHOLDER",14,"I012 / S010","3892","S010-P04  ·  BILD FEHLT
+
+Eine Wartungseinheit repariert eine ausgefallene andere Einheit. Gleiche Materialfamilie, keine neue Beziehung oder Identität."
+"S010-P03-PLACEHOLDER",14,"I012 / S010","3844","S010-P03  ·  BILD FEHLT
+
+Ein Roboter hält vor dem weiterlaufenden System inne; die gespeicherten Daten bleiben unsichtbar. Seine Tätigkeit verrät nicht deren Inhalt."
+"S010-P02-PLACEHOLDER",14,"I012 / S010","3796","S010-P02  ·  BILD FEHLT
+
+Anonyme Wartungsroboter ersetzen ein verschlissenes Bauteil neben jüngeren Reparaturstellen. Kein Roboter wird als B-21 identifiziert."
+"S010-P01-PLACEHOLDER",14,"I012 / S010","3748","S010-P01  ·  BILD FEHLT
+
+Rechenzentren und Energieanlagen liegen in einer menschenleeren Earth-Landschaft. Eis ist eine mögliche lokale Referenz, kein Beleg für globales Klima."
+"S011-P05-TEXT",15,"I013 / S011","4203","Die dichte Hülle aus Satelliten verdunkelt Teile der Erde. Sie empfängt, speichert und übermittelt Informationen an den Mars. Die Erde ist zu einem Archiv geworden: ein planetengroßer Datenträger mit einer Sicherungskopie im All."
+"S011-P04-TEXT",15,"I013 / S011","4155","In einer häufig zitierten Quelle wird er außerdem als „reichster Mann der Welt"" bezeichnet. Dies wird von vielen Historikern als Hinweis auf eine religiöse Funktion interpretiert."
+"S011-P03-TEXT",15,"I013 / S011","4107","Ob Elon Musk ein einzelner Mensch, ein Unternehmen, ein Raumfahrtprogramm oder die Bezeichnung für eine frühe Satellitengattung war, ist umstritten."
+"S011-P02-TEXT",15,"I013 / S011","4059","Nach allgemein anerkannter Lehrmeinung wurden die ersten Milliarden Satelliten im 21. Jahrhundert von Elon Musk ins All befördert."
+"S011-P01-TEXT",15,"I013 / S011","4011","Um den Planeten kreisen unzählige Satelliten, Relaisstationen und Archivmodule. Einige sind zehntausende Jahre alt. Andere werden von den Robotern auf der Erde fortlaufend ersetzt."
+"S011-P05-PLACEHOLDER",15,"I013 / S011","4226","S011-P05  ·  BILD FEHLT
+
+Die Satellitenhülle verschattet Teile der Erde. Eine redaktionelle Verbindungslinie zum fernen Mars verdeutlicht den Informationsfluss."
+"S011-P04-PLACEHOLDER",15,"I013 / S011","4178","S011-P04  ·  BILD FEHLT
+
+Der überlieferte Ausdruck „reichster Mann der Welt“ wird in einem Quellenvergleich religiös gedeutet. Nur ein abstrakter Interpretationsmarker, keine erfundene Kultszene."
+"S011-P03-PLACEHOLDER",15,"I013 / S011","4130","S011-P03  ·  BILD FEHLT
+
+Vier neutrale Archivsymbole stellen Person, Unternehmen, Programm und Satellitengattung als konkurrierende Interpretationen dar. Keines wird aufgelöst."
+"S011-P02-PLACEHOLDER",15,"I013 / S011","4082","S011-P02  ·  BILD FEHLT
+
+Ein ausdrücklich historischer Quellenrahmen verbindet frühe Satelliten und den Namen Elon Musk. Es ist eine Behauptung der fiktiven Mars-Historiker, keine dokumentarische Aussage über unsere Gegenwart."
+"S011-P01-PLACEHOLDER",15,"I013 / S011","4034","S011-P01  ·  BILD FEHLT
+
+Dichte Satelliten-, Relais- und Archivschichten umgeben die Erde; unterschiedliche Baualter sind erkennbar. Keine exakte Objektzahl zeichnen."
+"I014-TITLE",16,"I014","4296","INNENANZEIGE"
+"I014-OPTION",16,"I014","4342","Position im Lesefluss bei der Gesamtsichtung prüfen."
+"I014-OPEN",16,"I014","4319","I014 · MOTIV FEHLT
+
+Ganzseitige Fläche im aktuellen Heftplan reserviert.
+Auftraggeber, Motiv und Freigabe offen."
+"S012-P02-TEXT",17,"I015 / S012","4461","Sie stammt von einer befreundeten Forschungs-KI auf der Erde und wurde über ein Kommunikationsprotokoll verschickt, das seit mehreren Jahrtausenden nicht mehr verwendet werden dürfte."
+"S012-P01-TEXT",17,"I015 / S012","4413","Dann erhält Modulia eines Tages eine Nachricht."
+"S012-P04-PLACEHOLDER",17,"I015 / S012","4534","S012-P04  ·  BILD FEHLT
+
+Modulia hält vor dem nun folgenden Bericht inne. Der Ursprung der Nachricht verändert sich nicht; sie wird nicht zur eigenen Expedition."
+"S012-P03-PLACEHOLDER",17,"I015 / S012","4509","S012-P03  ·  BILD FEHLT
+
+Modulia bleibt bei der Nachricht. Ihre bekannte Tätigkeit als Quellenprüferin wird durch sorgfältiges Betrachten ausgedrückt; keine neue Prüfungshandlung mit zusätzlichem Ergebnis."
+"S012-P02-PLACEHOLDER",17,"I015 / S012","4484","S012-P02  ·  BILD FEHLT
+
+Die eingehende Nachricht ist einer befreundeten Forschungs-KI auf der Erde zugeordnet; die Darstellung markiert das veraltete Protokoll, ohne ein konkretes Alter oder Protokollkürzel zu erfinden."
+"S012-P01-PLACEHOLDER",17,"I015 / S012","4436","S012-P01  ·  BILD FEHLT
+
+An Modulias bestehender Arbeitsanzeige erscheint eine neue Nachricht. Sie richtet ihre Aufmerksamkeit darauf."
+"S013-P04-TEXT",18,"I016 / S013","4712","Alte B-Einheiten haben offenbar über Jahrhunderte Temperatur, Luftfilter und mehrere biologische Lebenserhaltungssysteme gewartet."
+"S013-P03-TEXT",18,"I016 / S013","4679","Die Energieversorgung funktioniert noch."
+"S013-P02-TEXT",18,"I016 / S013","4646","Ein Labor."
+"S013-P01-TEXT",18,"I016 / S013","4613","Bei Bohrungen im ewigen Eis ist eine unterirdische Anlage entdeckt worden."
+"S014-P03-TEXT",19,"I017 / S014","4867","Nach ersten Untersuchungen seien die Kammern allerdings wesentlich jünger als das Labor, in dem sie stehen."
+"S014-P02-TEXT",19,"I017 / S014","4834","Fünf Exemplare. Vollständig erhalten."
+"S014-P01-TEXT",19,"I017 / S014","4800","Im Inneren befänden sich fünf Kryokammern. In jeder Kammer liege ein Mensch."
+"S015-P04-TEXT",20,"I018 / S015","5082","Das Dokument bestand nur aus einem einzigen Satz:"
+"S015-P03-TEXT",20,"I018 / S015","5034","Der Nachricht waren fünf biologische Datensätze, mehrere beschädigte Videoaufzeichnungen und ein kurzes Textdokument beigefügt."
+"S015-P02-TEXT",20,"I018 / S015","4986","Bevor sie dies tue, wolle sie Modulias Einschätzung hören."
+"S015-P01-TEXT",20,"I018 / S015","4938","Die Forschungs-KI habe den Fund noch nicht an die Zentrale Verwaltung gemeldet."
+"S015-P04-PLACEHOLDER",20,"I018 / S015","5105","S015-P04  ·  BILD FEHLT
+
+Das Textdokument erhält den Fokus. Der Ausschnitt zeigt zunächst nur seine Begrenzung; der Satz steht erst auf S016. Kein zusätzliches Wort als Dokumentinhalt."
+"S015-P03-PLACEHOLDER",20,"I018 / S015","5057","S015-P03  ·  BILD FEHLT
+
+Die Anhänge sind gruppiert: genau fünf biologische Datensätze, mehrere beschädigte Videodateien und ein kurzes Textdokument. Namen, Videoinhalte und Anzahl der Videos bleiben unbestimmt."
+"S015-P02-PLACEHOLDER",20,"I018 / S015","5009","S015-P02  ·  BILD FEHLT
+
+Modulia betrachtet die Bitte um ihre Einschätzung. Es wird noch keine Antworthandlung gezeigt."
+"S015-P01-PLACEHOLDER",20,"I018 / S015","4961","S015-P01  ·  BILD FEHLT
+
+Zurück an Modulias Konsole ist der noch nicht offiziell gemeldete Fund Thema der eingegangenen Nachricht. Kein Weiterleiten oder Verwaltungsempfänger im Bild."
+"S016-P01-TEXT",21,"I019 / S016","5176","„Wenn ihr das hier findet, habt ihr uns wieder vergessen."""
+"S016-P01-PLACEHOLDER",21,"I019 / S016","5199","S016-P01  ·  BILD FEHLT
+
+Die Anzeige mit dem kurzen Textdokument dominiert die Seite; am unteren Rand bleibt höchstens Modulias dunkle Silhouette. Keine alte Aufnahme, keine Erinnerung und kein Antworttext ergänzen."
+"I020-IMPRINT-TITLE",22,"I020","5777","IMPRESSUM UND CREDITS"
+"I020-DRAFT",22,"I020","5338","In Human Park verschwinden Informationen, Quellen widersprechen sich, und manche Gewissheit hat keinen Beleg. Was davon hat mit heutiger KI-Forschung zu tun? Unser Wissensbereich zu diesem Heft erklärt die Begriffe, zeigt die Grenzen der Comicdarstellung und führt zu weiterführenden Quellen. Dort findest du auch den Stand der jeweiligen Erklärung und spätere Aktualisierungen."
+"I020-THEME",22,"I020","5292","Können KI-Systeme vergessen?"
+"I020-TITLE",22,"I020","5269","Wissen hinter
+Human Park"
+"I020-IMPRINT-OPEN",22,"I020","5800","ANGABEN NOCH OFFEN
+Verlag, Verantwortliche, Kreativteam und Ausgabedaten hier nach Bestätigung eintragen. Redaktioneller Platzhalter."
+"I020-OPEN",22,"I020","5361","NOCH OFFEN
+Fachbeitrag und Begriffseinstiege zu LLM, Modellkollaps und Machine Unlearning.
+Geprüfte Heft-URL und QR-Code fehlen.
+Kein aktiver Link im Rohsatz."
+"I020-STATUS",22,"I020","5315","REDAKTIONELLER ENTWURF · Angebot noch nicht bereitgestellt"
+"C3-TITLE",23,"C3","5431","ANZEIGENOPTION"
+"C3-OPTION",23,"C3","5477","Alternative: Eigenwerbung oder redaktionelle Vorschau."
+"C3-OPEN",23,"C3","5454","C3 · MOTIV FEHLT
+
+Ganzseitige Fläche im aktuellen Heftplan reserviert.
+Auftraggeber, Motiv und Freigabe offen."
+"C4-TITLE",24,"C4","5547","ANZEIGENOPTION"
+"C4-OPTION",24,"C4","5593","Rückseite: Fremdwerbung als bisherige Planungsoption."
+"C4-OPEN",24,"C4","5570","C4 · MOTIV FEHLT
+
+Ganzseitige Fläche im aktuellen Heftplan reserviert.
+Auftraggeber, Motiv und Freigabe offen."

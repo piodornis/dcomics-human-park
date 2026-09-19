@@ -1,0 +1,4 @@
+timestamp,text_id,old_text,new_text,direction,export_sha256
+2026-09-19T00:09:47.220922+00:00,S013-P01-TEXT,Bei Bohrungen im ewigen Eis sei eine unterirdische Anlage entdeckt worden.,Bei Bohrungen im ewigen Eis ist eine unterirdische Anlage entdeckt worden.,InDesign -> CSV,5626a06c1f85d1c59764c3532bde88ff564f2e408bb350a3db3895430228e732
+2026-09-19T00:09:47.220922+00:00,S013-P03-TEXT,Die Energieversorgung funktioniere noch.,Die Energieversorgung funktioniert noch.,InDesign -> CSV,5626a06c1f85d1c59764c3532bde88ff564f2e408bb350a3db3895430228e732
+2026-09-19T00:09:47.220922+00:00,S013-P04-TEXT,"Alte Roboter hätten offenbar über Jahrtausende hinweg die Temperatur, die Luftfilter und mehrere biologische Lebenserhaltungssysteme gewartet.","Alte B-Einheiten haben offenbar über Jahrhunderte Temperatur, Luftfilter und mehrere biologische Lebenserhaltungssysteme gewartet.",InDesign -> CSV,5626a06c1f85d1c59764c3532bde88ff564f2e408bb350a3db3895430228e732

@@ -1,0 +1,13 @@
+{
+  "pages": 24,
+  "changed_artwork": [
+    "S013-P04",
+    "S013-P05"
+  ],
+  "page16_visually_reviewed": true,
+  "normal_image_links": 13,
+  "text_overflow": false,
+  "native_text_updates_synced": 3,
+  "all_story_csv_texts_found_once_in_pdf": true,
+  "previous_text_baseline_preserved_in_history": true
+}
